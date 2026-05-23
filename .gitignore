@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Generated output
+output/
+
+# Environment & IDE
+.env
+.env.*
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code (local dev tooling)
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+*.log

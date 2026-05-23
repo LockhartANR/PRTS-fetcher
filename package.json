@@ -1,0 +1,28 @@
+{
+  "name": "prts-fetcher",
+  "version": "1.0.0",
+  "description": "Scrape Arknights operator data from PRTS.wiki",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "arknights",
+    "prts",
+    "wiki",
+    "scraper",
+    "operator",
+    "data",
+    "明日方舟"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js --limit 10"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "p-limit": "^6.0.0"
+  }
+}
