@@ -20,7 +20,7 @@ export function transformOperators(parsedResults) {
     const ci = result.charInfo;
     if (!ci.name) continue;
 
-    let id = ci.nameEn ? ci.nameEn.toLowerCase().replace(/["'\s]/g, '') : ci.name;
+    let id = ci.nameEn ? ci.nameEn.toLowerCase().replace(/["'\s\/]/g, '') : ci.name;
     const rarity = (ci.star ?? -1) + STAR_OFFSET;
     const tags = resolveTags(ci);
 

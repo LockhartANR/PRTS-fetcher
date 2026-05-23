@@ -4,6 +4,7 @@ import { fetchOperatorList } from './charListFetcher.js';
 import { fetchMany } from './fetcher.js';
 import { parseOperatorPage } from './pageParser.js';
 import { transformOperators, writeOutput } from './outputWriter.js';
+import { downloadAvatars } from './avatarDownloader.js';
 import { RATE_LIMIT } from './config.js';
 
 const USAGE = `
@@ -11,6 +12,7 @@ Usage: node src/index.js [options]
 
 Options:
   --limit=N    Only scrape the first N operators (for testing)
+  --avatars    Download avatar images to output/avatars/
   --help       Show this help message
 `.trim();
 
@@ -26,20 +28,21 @@ function parseArgs() {
   }
 
   const limitArg = args.find(a => a.startsWith('--limit='));
+  const avatars = args.includes('--avatars');
   if (limitArg) {
     const n = parseInt(limitArg.split('=')[1], 10);
     if (isNaN(n) || n <= 0) {
       console.error('Error: --limit must be a positive integer');
       process.exit(1);
     }
-    return { limit: n };
+    return { limit: n, avatars };
   }
-  return { limit: null };
+  return { limit: null, avatars };
 }
 
 async function main() {
   const startTime = Date.now();
-  const { limit } = parseArgs();
+  const { limit, avatars } = parseArgs();
 
   console.log('========================================');
   console.log('  PRTS.wiki Arknights Operator Scraper');
@@ -95,6 +98,18 @@ async function main() {
     console.log(`\n[4/4] Generating output files...`);
 
     const { operators: outputOps, tagStats } = transformOperators(parsedResults);
+
+    // Optional: download avatar images
+    if (avatars) {
+      console.log(`\n[avatars] Downloading ${outputOps.length} operator avatars (concurrency=${RATE_LIMIT.CONCURRENCY})...`);
+      const { success, failed } = await downloadAvatars(outputOps, RATE_LIMIT.CONCURRENCY, (done, total) => {
+        const pct = Math.round((done / total) * 100);
+        process.stdout.write(`\r  Progress: ${done}/${total} (${pct}%)`);
+      });
+      console.log('');
+      console.log(`  Downloaded: ${success}, Failed: ${failed}`);
+    }
+
     writeOutput(outputOps, tagStats);
 
     // Summary
