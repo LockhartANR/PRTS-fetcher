@@ -1,0 +1,7658 @@
+[
+  {
+    "id": "12f",
+    "name": "12F",
+    "nameEn": "12F",
+    "rarity": 2,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "新手"
+    ],
+    "avatar": "https://media.prts.wiki/b/b7/%E5%A4%B4%E5%83%8F_12F.png",
+    "groupId": "罗德岛",
+    "painter": "海猫络合物"
+  },
+  {
+    "id": "aak",
+    "name": "阿",
+    "nameEn": "Aak",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "怪杰",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "支援",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/31/%E5%A4%B4%E5%83%8F_%E9%98%BF.png",
+    "groupId": "鲤氏侦探事务所",
+    "painter": "KuroBlood"
+  },
+  {
+    "id": "absinthe",
+    "name": "苦艾",
+    "nameEn": "Absinthe",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/e/e9/%E5%A4%B4%E5%83%8F_%E8%8B%A6%E8%89%BE.png",
+    "groupId": "乌萨斯学生自治团",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "aciddrop",
+    "name": "酸糖",
+    "nameEn": "Aciddrop",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "重射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/e/e9/%E5%A4%B4%E5%83%8F_%E9%85%B8%E7%B3%96.png",
+    "groupId": "哥伦比亚",
+    "painter": "Lanzi"
+  },
+  {
+    "id": "adnachiel",
+    "name": "安德切尔",
+    "nameEn": "Adnachiel",
+    "rarity": 3,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f6/%E5%A4%B4%E5%83%8F_%E5%AE%89%E5%BE%B7%E5%88%87%E5%B0%94.png",
+    "groupId": "行动预备组A4",
+    "painter": "一立里子"
+  },
+  {
+    "id": "akafuyu",
+    "name": "赤冬",
+    "nameEn": "Akafuyu",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "武者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E8%B5%A4%E5%86%AC.png",
+    "groupId": "东",
+    "painter": "熊太"
+  },
+  {
+    "id": "akkord",
+    "name": "协律",
+    "nameEn": "Akkord",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "轰击术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/8e/%E5%A4%B4%E5%83%8F_%E5%8D%8F%E5%BE%8B.png",
+    "groupId": "莱塔尼亚",
+    "painter": "Chi4"
+  },
+  {
+    "id": "alanna",
+    "name": "阿兰娜",
+    "nameEn": "Alanna",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "工匠",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "辅助",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_%E9%98%BF%E5%85%B0%E5%A8%9C.png",
+    "groupId": "雷姆必拓",
+    "painter": "百慕大飞鱼"
+  },
+  {
+    "id": "alliancesupportiveopertator",
+    "name": "盟约·辅助干员",
+    "nameEn": "Alliance/Supportive Opertator",
+    "rarity": 4,
+    "class": "辅助",
+    "branch": "巫役",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "元素"
+    ],
+    "avatar": "https://media.prts.wiki/4/45/%E5%A4%B4%E5%83%8F_%E7%9B%9F%E7%BA%A6%C2%B7%E8%BE%85%E5%8A%A9%E5%B9%B2%E5%91%98.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "almond",
+    "name": "杏仁",
+    "nameEn": "Almond",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "钩索师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移"
+    ],
+    "avatar": "https://media.prts.wiki/2/2e/%E5%A4%B4%E5%83%8F_%E6%9D%8F%E4%BB%81.png",
+    "groupId": "黑钢国际",
+    "painter": "直立行走"
+  },
+  {
+    "id": "ambriel",
+    "name": "安比尔",
+    "nameEn": "Ambriel",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "神射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/f/ff/%E5%A4%B4%E5%83%8F_%E5%AE%89%E6%AF%94%E5%B0%94.png",
+    "groupId": "拉特兰",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "amiya",
+    "name": "阿米娅(近卫)",
+    "nameEn": "Amiya",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/5b/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85(%E8%BF%91%E5%8D%AB).png",
+    "groupId": "罗德岛",
+    "painter": "唯@W"
+  },
+  {
+    "id": "amiya-术师",
+    "name": "阿米娅",
+    "nameEn": "Amiya",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+    "groupId": "罗德岛",
+    "painter": "唯@W"
+  },
+  {
+    "id": "amiya-医疗",
+    "name": "阿米娅(医疗)",
+    "nameEn": "Amiya",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "咒愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85(%E5%8C%BB%E7%96%97).png",
+    "groupId": "罗德岛",
+    "painter": "Mag42"
+  },
+  {
+    "id": "andreana",
+    "name": "安哲拉",
+    "nameEn": "Andreana",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "神射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E5%AE%89%E5%93%B2%E6%8B%89.png",
+    "groupId": "深海猎人",
+    "painter": "LLC"
+  },
+  {
+    "id": "angelina",
+    "name": "安洁莉娜",
+    "nameEn": "Angelina",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/c/ca/%E5%A4%B4%E5%83%8F_%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+    "groupId": "叙拉古",
+    "painter": "LM7"
+  },
+  {
+    "id": "ansel",
+    "name": "安赛尔",
+    "nameEn": "Ansel",
+    "rarity": 3,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/9/94/%E5%A4%B4%E5%83%8F_%E5%AE%89%E8%B5%9B%E5%B0%94.png",
+    "groupId": "行动预备组A4",
+    "painter": "一立里子"
+  },
+  {
+    "id": "aosta",
+    "name": "奥斯塔",
+    "nameEn": "Aosta",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "散射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/4/49/%E5%A4%B4%E5%83%8F_%E5%A5%A5%E6%96%AF%E5%A1%94.png",
+    "groupId": "贾维团伙",
+    "painter": "Infukun"
+  },
+  {
+    "id": "april",
+    "name": "四月",
+    "nameEn": "April",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d3/%E5%A4%B4%E5%83%8F_%E5%9B%9B%E6%9C%88.png",
+    "groupId": "雷姆必拓",
+    "painter": "れおえん"
+  },
+  {
+    "id": "archetto",
+    "name": "空弦",
+    "nameEn": "Archetto",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/bb/%E5%A4%B4%E5%83%8F_%E7%A9%BA%E5%BC%A6.png",
+    "groupId": "拉特兰",
+    "painter": "alchemaniac"
+  },
+  {
+    "id": "arene",
+    "name": "芳汀",
+    "nameEn": "Arene",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/6a/%E5%A4%B4%E5%83%8F_%E8%8A%B3%E6%B1%80.png",
+    "groupId": "拉特兰",
+    "painter": "umo_yszx"
+  },
+  {
+    "id": "aroma",
+    "name": "阿罗玛",
+    "nameEn": "Aroma",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "轰击术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/f/f6/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%BD%97%E7%8E%9B.png",
+    "groupId": "叙拉古",
+    "painter": "ヌードル"
+  },
+  {
+    "id": "asbestos",
+    "name": "石棉",
+    "nameEn": "Asbestos",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "驭法铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/18/%E5%A4%B4%E5%83%8F_%E7%9F%B3%E6%A3%89.png",
+    "groupId": "雷姆必拓",
+    "painter": "TEAM EXPNDR"
+  },
+  {
+    "id": "ascalon",
+    "name": "阿斯卡纶",
+    "nameEn": "Ascalon",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "伏击客",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "减速",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/76/%E5%A4%B4%E5%83%8F_%E9%98%BF%E6%96%AF%E5%8D%A1%E7%BA%B6.png",
+    "groupId": "S.W.E.E.P.",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "ash",
+    "name": "灰烬",
+    "nameEn": "Ash",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/64/%E5%A4%B4%E5%83%8F_%E7%81%B0%E7%83%AC.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "ashlock",
+    "name": "灰毫",
+    "nameEn": "Ashlock",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "要塞",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/2/21/%E5%A4%B4%E5%83%8F_%E7%81%B0%E6%AF%AB.png",
+    "groupId": "红松骑士团",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "astesia",
+    "name": "星极",
+    "nameEn": "Astesia",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/e/ee/%E5%A4%B4%E5%83%8F_%E6%98%9F%E6%9E%81.png",
+    "groupId": "哥伦比亚",
+    "painter": "YUJI"
+  },
+  {
+    "id": "astgenne",
+    "name": "星源",
+    "nameEn": "Astgenne",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "链术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/4/48/%E5%A4%B4%E5%83%8F_%E6%98%9F%E6%BA%90.png",
+    "groupId": "莱茵生命",
+    "painter": "YUJI"
+  },
+  {
+    "id": "astgennethelightchaser",
+    "name": "溯光星源",
+    "nameEn": "Astgenne the Lightchaser",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "支援",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d0/%E5%A4%B4%E5%83%8F_%E6%BA%AF%E5%85%89%E6%98%9F%E6%BA%90.png",
+    "groupId": "莱茵生命",
+    "painter": "YUJI"
+  },
+  {
+    "id": "aurora",
+    "name": "极光",
+    "nameEn": "Aurora",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "决战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/4/43/%E5%A4%B4%E5%83%8F_%E6%9E%81%E5%85%89.png",
+    "groupId": "谢拉格",
+    "painter": "LAL!ROLE"
+  },
+  {
+    "id": "ayerscarpe",
+    "name": "断崖",
+    "nameEn": "Ayerscarpe",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/e/ea/%E5%A4%B4%E5%83%8F_%E6%96%AD%E5%B4%96.png",
+    "groupId": "雷姆必拓",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "bagpipe",
+    "name": "风笛",
+    "nameEn": "Bagpipe",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/de/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E7%AC%9B.png",
+    "groupId": "维多利亚",
+    "painter": "u介"
+  },
+  {
+    "id": "bassline",
+    "name": "深律",
+    "nameEn": "Bassline",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/d/d8/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E5%BE%8B.png",
+    "groupId": "莱塔尼亚",
+    "painter": "九日九号"
+  },
+  {
+    "id": "beagle",
+    "name": "米格鲁",
+    "nameEn": "Beagle",
+    "rarity": 3,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/3/32/%E5%A4%B4%E5%83%8F_%E7%B1%B3%E6%A0%BC%E9%B2%81.png",
+    "groupId": "行动预备组A1",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "beanstalk",
+    "name": "豆苗",
+    "nameEn": "Beanstalk",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "战术家",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "先锋",
+      "费用回复",
+      "召唤"
+    ],
+    "avatar": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E8%B1%86%E8%8B%97.png",
+    "groupId": "哥伦比亚",
+    "painter": "一千"
+  },
+  {
+    "id": "beehunter",
+    "name": "猎蜂",
+    "nameEn": "Beehunter",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/c2/%E5%A4%B4%E5%83%8F_%E7%8C%8E%E8%9C%82.png",
+    "groupId": "乌萨斯",
+    "painter": "toast"
+  },
+  {
+    "id": "beeswax",
+    "name": "蜜蜡",
+    "nameEn": "Beeswax",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "阵法术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/1/1d/%E5%A4%B4%E5%83%8F_%E8%9C%9C%E8%9C%A1.png",
+    "groupId": "萨尔贡",
+    "painter": "カワグチ"
+  },
+  {
+    "id": "bena",
+    "name": "贝娜",
+    "nameEn": "Bena",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "傀儡师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/9/95/%E5%A4%B4%E5%83%8F_%E8%B4%9D%E5%A8%9C.png",
+    "groupId": "维多利亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "bibeak",
+    "name": "柏喙",
+    "nameEn": "Bibeak",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "剑豪",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/2f/%E5%A4%B4%E5%83%8F_%E6%9F%8F%E5%96%99.png",
+    "groupId": "萨米",
+    "painter": "RAYVON"
+  },
+  {
+    "id": "bison",
+    "name": "拜松",
+    "nameEn": "Bison",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/b/b2/%E5%A4%B4%E5%83%8F_%E6%8B%9C%E6%9D%BE.png",
+    "groupId": "炎-龙门",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "blacknight",
+    "name": "夜半",
+    "nameEn": "Blacknight",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "战术家",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "先锋",
+      "费用回复",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E5%8D%8A.png",
+    "groupId": "雷姆必拓",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "blaze",
+    "name": "煌",
+    "nameEn": "Blaze",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E7%85%8C.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "唯@W"
+  },
+  {
+    "id": "blazetheignitingspark",
+    "name": "烛煌",
+    "nameEn": "Blaze the Igniting Spark",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "本源术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "元素",
+      "输出",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/c/c4/%E5%A4%B4%E5%83%8F_%E7%83%9B%E7%85%8C.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "Mag42"
+  },
+  {
+    "id": "blemishine",
+    "name": "瑕光",
+    "nameEn": "Blemishine",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f7/%E5%A4%B4%E5%83%8F_%E7%91%95%E5%85%89.png",
+    "groupId": "卡西米尔",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "blitz",
+    "name": "闪击",
+    "nameEn": "Blitz",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "哨戒铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/c1/%E5%A4%B4%E5%83%8F_%E9%97%AA%E5%87%BB.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "bluepoison",
+    "name": "蓝毒",
+    "nameEn": "Blue Poison",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%93%9D%E6%AF%92.png",
+    "groupId": "伊比利亚",
+    "painter": "LLC"
+  },
+  {
+    "id": "bobbing",
+    "name": "波卜",
+    "nameEn": "Bobbing",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "巫役",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "元素"
+    ],
+    "avatar": "https://media.prts.wiki/d/d5/%E5%A4%B4%E5%83%8F_%E6%B3%A2%E5%8D%9C.png",
+    "groupId": "哥伦比亚",
+    "painter": "HUG"
+  },
+  {
+    "id": "breeze",
+    "name": "微风",
+    "nameEn": "Breeze",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "群愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E5%BE%AE%E9%A3%8E.png",
+    "groupId": "维多利亚",
+    "painter": "藻"
+  },
+  {
+    "id": "brigid",
+    "name": "水灯心",
+    "nameEn": "Brigid",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "回环射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E6%B0%B4%E7%81%AF%E5%BF%83.png",
+    "groupId": "塔拉",
+    "painter": "Yukuso"
+  },
+  {
+    "id": "broca",
+    "name": "布洛卡",
+    "nameEn": "Broca",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E5%B8%83%E6%B4%9B%E5%8D%A1.png",
+    "groupId": "贾维团伙",
+    "painter": "Infukun"
+  },
+  {
+    "id": "bryophyta",
+    "name": "苍苔",
+    "nameEn": "Bryophyta",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "教官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/9/95/%E5%A4%B4%E5%83%8F_%E8%8B%8D%E8%8B%94.png",
+    "groupId": "汐斯塔",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "bubble",
+    "name": "泡泡",
+    "nameEn": "Bubble",
+    "rarity": 4,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E6%B3%A1%E6%B3%A1.png",
+    "groupId": "萨尔贡",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "cairn",
+    "name": "响石",
+    "nameEn": "Cairn",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "本源铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "元素",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/5/52/%E5%A4%B4%E5%83%8F_%E5%93%8D%E7%9F%B3.png",
+    "groupId": "哥伦比亚",
+    "painter": "kirine"
+  },
+  {
+    "id": "cantabile",
+    "name": "晓歌",
+    "nameEn": "Cantabile",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "情报官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/1/15/%E5%A4%B4%E5%83%8F_%E6%99%93%E6%AD%8C.png",
+    "groupId": "罗德岛",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "caper",
+    "name": "跃跃",
+    "nameEn": "Caper",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "回环射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/aa/%E5%A4%B4%E5%83%8F_%E8%B7%83%E8%B7%83.png",
+    "groupId": "玻利瓦尔",
+    "painter": "臼"
+  },
+  {
+    "id": "cardigan",
+    "name": "卡缇",
+    "nameEn": "Cardigan",
+    "rarity": 3,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/8/87/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E7%BC%87.png",
+    "groupId": "行动预备组A4",
+    "painter": "一立里子"
+  },
+  {
+    "id": "carnelian",
+    "name": "卡涅利安",
+    "nameEn": "Carnelian",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "阵法术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E6%B6%85%E5%88%A9%E5%AE%89.png",
+    "groupId": "莱塔尼亚",
+    "painter": "カワグチ"
+  },
+  {
+    "id": "castle-3",
+    "name": "Castle-3",
+    "nameEn": "Castle-3",
+    "rarity": 1,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "支援机械",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/8/82/%E5%A4%B4%E5%83%8F_Castle-3.png",
+    "groupId": "罗德岛",
+    "painter": "TOKI"
+  },
+  {
+    "id": "catapult",
+    "name": "空爆",
+    "nameEn": "Catapult",
+    "rarity": 3,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E7%A9%BA%E7%88%86.png",
+    "groupId": "行动预备组A6",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "catherine",
+    "name": "凯瑟琳",
+    "nameEn": "Catherine",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "工匠",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "辅助",
+      "防护",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/e/e9/%E5%A4%B4%E5%83%8F_%E5%87%AF%E7%91%9F%E7%90%B3.png",
+    "groupId": "维多利亚",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "cement",
+    "name": "洋灰",
+    "nameEn": "Cement",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "决战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/e/e8/%E5%A4%B4%E5%83%8F_%E6%B4%8B%E7%81%B0.png",
+    "groupId": "雷姆必拓",
+    "painter": "科学"
+  },
+  {
+    "id": "ceobe",
+    "name": "刻俄柏",
+    "nameEn": "Ceobe",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E5%88%BB%E4%BF%84%E6%9F%8F.png",
+    "groupId": "罗德岛",
+    "painter": "LM7"
+  },
+  {
+    "id": "ceylon",
+    "name": "锡兰",
+    "nameEn": "Ceylon",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "疗养师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/39/%E5%A4%B4%E5%83%8F_%E9%94%A1%E5%85%B0.png",
+    "groupId": "汐斯塔",
+    "painter": "Skade"
+  },
+  {
+    "id": "chen",
+    "name": "陈",
+    "nameEn": "Ch'en",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "剑豪",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_%E9%99%88.png",
+    "groupId": "龙门近卫局",
+    "painter": "唯@W"
+  },
+  {
+    "id": "chentheholungday",
+    "name": "假日威龙陈",
+    "nameEn": "Ch'en the Holungday",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "散射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/d/df/%E5%A4%B4%E5%83%8F_%E5%81%87%E6%97%A5%E5%A8%81%E9%BE%99%E9%99%88.png",
+    "groupId": "罗德岛",
+    "painter": "唯@W"
+  },
+  {
+    "id": "chestnut",
+    "name": "褐果",
+    "nameEn": "Chestnut",
+    "rarity": 4,
+    "class": "医疗",
+    "branch": "行医",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E8%A4%90%E6%9E%9C.png",
+    "groupId": "罗德岛",
+    "painter": "树豚"
+  },
+  {
+    "id": "chiave",
+    "name": "贾维",
+    "nameEn": "Chiave",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_%E8%B4%BE%E7%BB%B4.png",
+    "groupId": "贾维团伙",
+    "painter": "Infukun"
+  },
+  {
+    "id": "chilchuck",
+    "name": "齐尔查克",
+    "nameEn": "Chilchuck",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "情报官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/4/42/%E5%A4%B4%E5%83%8F_%E9%BD%90%E5%B0%94%E6%9F%A5%E5%85%8B.png",
+    "groupId": "莱欧斯小队",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "chongyue",
+    "name": "重岳",
+    "nameEn": "Chongyue",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/0/09/%E5%A4%B4%E5%83%8F_%E9%87%8D%E5%B2%B3.png",
+    "groupId": "炎-岁",
+    "painter": "KuroBlood"
+  },
+  {
+    "id": "civilighteterna",
+    "name": "魔王",
+    "nameEn": "Civilight Eterna",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "吟游者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/de/%E5%A4%B4%E5%83%8F_%E9%AD%94%E7%8E%8B.png",
+    "groupId": "罗德岛",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "click",
+    "name": "卡达",
+    "nameEn": "Click",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "驭械术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/4/43/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E8%BE%BE.png",
+    "groupId": "罗德岛",
+    "painter": "れおえん"
+  },
+  {
+    "id": "cliffheart",
+    "name": "崖心",
+    "nameEn": "Cliffheart",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "钩索师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/7d/%E5%A4%B4%E5%83%8F_%E5%B4%96%E5%BF%83.png",
+    "groupId": "谢拉格",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "coldshot",
+    "name": "冰酿",
+    "nameEn": "Coldshot",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "猎手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_%E5%86%B0%E9%85%BF.png",
+    "groupId": "哥伦比亚",
+    "painter": "Mag42"
+  },
+  {
+    "id": "confess-47",
+    "name": "CONFESS-47",
+    "nameEn": "CONFESS-47",
+    "rarity": 1,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "支援机械",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/c/c4/%E5%A4%B4%E5%83%8F_CONFESS-47.png",
+    "groupId": "拉特兰",
+    "painter": "抽象Rotate"
+  },
+  {
+    "id": "contrail",
+    "name": "云迹",
+    "nameEn": "Contrail",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "巡空者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "高空",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/6/67/%E5%A4%B4%E5%83%8F_%E4%BA%91%E8%BF%B9.png",
+    "groupId": "哥伦比亚",
+    "painter": "虬墨一型"
+  },
+  {
+    "id": "conviction",
+    "name": "断罪者",
+    "nameEn": "Conviction",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存",
+      "控场",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/f/f2/%E5%A4%B4%E5%83%8F_%E6%96%AD%E7%BD%AA%E8%80%85.png",
+    "groupId": "米诺斯",
+    "painter": "TOMATO"
+  },
+  {
+    "id": "corroserum",
+    "name": "蚀清",
+    "nameEn": "Corroserum",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "轰击术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E8%9A%80%E6%B8%85.png",
+    "groupId": "哥伦比亚",
+    "painter": "Jacknife"
+  },
+  {
+    "id": "courier",
+    "name": "讯使",
+    "nameEn": "Courier",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E8%AE%AF%E4%BD%BF.png",
+    "groupId": "喀兰贸易",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "croissant",
+    "name": "可颂",
+    "nameEn": "Croissant",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "位移"
+    ],
+    "avatar": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%A2%82.png",
+    "groupId": "企鹅物流",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "crownslayer",
+    "name": "弑君者",
+    "nameEn": "Crownslayer",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/1/12/%E5%A4%B4%E5%83%8F_%E5%BC%91%E5%90%9B%E8%80%85.png",
+    "groupId": "罗德岛",
+    "painter": "直立行走"
+  },
+  {
+    "id": "cuora",
+    "name": "蛇屠箱",
+    "nameEn": "Cuora",
+    "rarity": 4,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/0/02/%E5%A4%B4%E5%83%8F_%E8%9B%87%E5%B1%A0%E7%AE%B1.png",
+    "groupId": "哥伦比亚",
+    "painter": "Skade"
+  },
+  {
+    "id": "cutter",
+    "name": "刻刀",
+    "nameEn": "Cutter",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "剑豪",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/2c/%E5%A4%B4%E5%83%8F_%E5%88%BB%E5%88%80.png",
+    "groupId": "哥伦比亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "czerny",
+    "name": "车尔尼",
+    "nameEn": "Czerny",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "驭法铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/1c/%E5%A4%B4%E5%83%8F_%E8%BD%A6%E5%B0%94%E5%B0%BC.png",
+    "groupId": "莱塔尼亚",
+    "painter": "九日九号"
+  },
+  {
+    "id": "dagda",
+    "name": "达格达",
+    "nameEn": "Dagda",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E8%BE%BE%E6%A0%BC%E8%BE%BE.png",
+    "groupId": "格拉斯哥帮",
+    "painter": "Infukun"
+  },
+  {
+    "id": "deepcolor",
+    "name": "深海色",
+    "nameEn": "Deepcolor",
+    "rarity": 4,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤"
+    ],
+    "avatar": "https://media.prts.wiki/d/d1/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E6%B5%B7%E8%89%B2.png",
+    "groupId": "阿戈尔",
+    "painter": "REALMBW"
+  },
+  {
+    "id": "degenbrecher",
+    "name": "锏",
+    "nameEn": "Degenbrecher",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "剑豪",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/0/0f/%E5%A4%B4%E5%83%8F_%E9%94%8F.png",
+    "groupId": "喀兰贸易",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "delphine",
+    "name": "戴菲恩",
+    "nameEn": "Delphine",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "秘术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E6%88%B4%E8%8F%B2%E6%81%A9.png",
+    "groupId": "维多利亚",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "diamante",
+    "name": "折光",
+    "nameEn": "Diamante",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "本源术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "元素",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/c2/%E5%A4%B4%E5%83%8F_%E6%8A%98%E5%85%89.png",
+    "groupId": "莱塔尼亚",
+    "painter": "およ"
+  },
+  {
+    "id": "dobermann",
+    "name": "杜宾",
+    "nameEn": "Dobermann",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "教官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E6%9D%9C%E5%AE%BE.png",
+    "groupId": "罗德岛",
+    "painter": "LLC"
+  },
+  {
+    "id": "doc",
+    "name": "医生",
+    "nameEn": "Doc",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "教官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/1/11/%E5%A4%B4%E5%83%8F_%E5%8C%BB%E7%94%9F.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "dorothy",
+    "name": "多萝西",
+    "nameEn": "Dorothy",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "陷阱师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "召唤",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/4/4f/%E5%A4%B4%E5%83%8F_%E5%A4%9A%E8%90%9D%E8%A5%BF.png",
+    "groupId": "莱茵生命",
+    "painter": "Jacknife"
+  },
+  {
+    "id": "dur-nar",
+    "name": "坚雷",
+    "nameEn": "Dur-nar",
+    "rarity": 4,
+    "class": "重装",
+    "branch": "驭法铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9D%9A%E9%9B%B7.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "durin",
+    "name": "杜林",
+    "nameEn": "Durin",
+    "rarity": 2,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "新手"
+    ],
+    "avatar": "https://media.prts.wiki/2/24/%E5%A4%B4%E5%83%8F_%E6%9D%9C%E6%9E%97.png",
+    "groupId": "行动组A4",
+    "painter": "Skade"
+  },
+  {
+    "id": "dusk",
+    "name": "夕",
+    "nameEn": "Dusk",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/6/6b/%E5%A4%B4%E5%83%8F_%E5%A4%95.png",
+    "groupId": "炎-岁",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "earthspirit",
+    "name": "地灵",
+    "nameEn": "Earthspirit",
+    "rarity": 4,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%9C%B0%E7%81%B5.png",
+    "groupId": "莱塔尼亚",
+    "painter": "HUG"
+  },
+  {
+    "id": "ebenholz",
+    "name": "黑键",
+    "nameEn": "Ebenholz",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "秘术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/1e/%E5%A4%B4%E5%83%8F_%E9%BB%91%E9%94%AE.png",
+    "groupId": "莱塔尼亚",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "ela",
+    "name": "艾拉",
+    "nameEn": "Ela",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "陷阱师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "召唤",
+      "控场",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/26/%E5%A4%B4%E5%83%8F_%E8%89%BE%E6%8B%89.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "elysium",
+    "name": "极境",
+    "nameEn": "Elysium",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "执旗手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E6%9E%81%E5%A2%83.png",
+    "groupId": "罗德岛",
+    "painter": "Skade"
+  },
+  {
+    "id": "enforcer",
+    "name": "见行者",
+    "nameEn": "Enforcer",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "推击手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/d/d2/%E5%A4%B4%E5%83%8F_%E8%A7%81%E8%A1%8C%E8%80%85.png",
+    "groupId": "拉特兰",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "entelechia",
+    "name": "隐德来希",
+    "nameEn": "Entelechia",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "收割者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/4/4c/%E5%A4%B4%E5%83%8F_%E9%9A%90%E5%BE%B7%E6%9D%A5%E5%B8%8C.png",
+    "groupId": "罗德岛",
+    "painter": "Ask"
+  },
+  {
+    "id": "erato",
+    "name": "埃拉托",
+    "nameEn": "Erato",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "攻城手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E5%9F%83%E6%8B%89%E6%89%98.png",
+    "groupId": "米诺斯",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "estelle",
+    "name": "艾丝黛尔",
+    "nameEn": "Estelle",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E8%89%BE%E4%B8%9D%E9%BB%9B%E5%B0%94.png",
+    "groupId": "萨尔贡",
+    "painter": "鸭"
+  },
+  {
+    "id": "ethan",
+    "name": "伊桑",
+    "nameEn": "Ethan",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "伏击客",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/c/c1/%E5%A4%B4%E5%83%8F_%E4%BC%8A%E6%A1%91.png",
+    "groupId": "罗德岛",
+    "painter": "阿鬼"
+  },
+  {
+    "id": "eunectes",
+    "name": "森蚺",
+    "nameEn": "Eunectes",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "决战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "生存",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/7/74/%E5%A4%B4%E5%83%8F_%E6%A3%AE%E8%9A%BA.png",
+    "groupId": "萨尔贡",
+    "painter": "Liduke"
+  },
+  {
+    "id": "executor",
+    "name": "送葬人",
+    "nameEn": "Executor",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "散射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/d/da/%E5%A4%B4%E5%83%8F_%E9%80%81%E8%91%AC%E4%BA%BA.png",
+    "groupId": "拉特兰",
+    "painter": "Skade"
+  },
+  {
+    "id": "executortheexfoedere",
+    "name": "圣约送葬人",
+    "nameEn": "Executor the Ex Foedere",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "收割者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/7e/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E7%BA%A6%E9%80%81%E8%91%AC%E4%BA%BA.png",
+    "groupId": "拉特兰",
+    "painter": "Skade"
+  },
+  {
+    "id": "exusiai",
+    "name": "能天使",
+    "nameEn": "Exusiai",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+    "groupId": "企鹅物流",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "exusiaithenewcovenant",
+    "name": "新约能天使",
+    "nameEn": "Exusiai the New Covenant",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "怪杰",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/3/3a/%E5%A4%B4%E5%83%8F_%E6%96%B0%E7%BA%A6%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+    "groupId": "企鹅物流",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "eyjafjalla",
+    "name": "艾雅法拉",
+    "nameEn": "Eyjafjalla",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89.png",
+    "groupId": "莱塔尼亚",
+    "painter": "Anmi"
+  },
+  {
+    "id": "eyjafjallathehvítaska",
+    "name": "纯烬艾雅法拉",
+    "nameEn": "Eyjafjalla the Hvít Aska",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "行医",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/f/f0/%E5%A4%B4%E5%83%8F_%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89.png",
+    "groupId": "莱塔尼亚",
+    "painter": "Anmi"
+  },
+  {
+    "id": "fang",
+    "name": "芬",
+    "nameEn": "Fang",
+    "rarity": 3,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复"
+    ],
+    "avatar": "https://media.prts.wiki/4/41/%E5%A4%B4%E5%83%8F_%E8%8A%AC.png",
+    "groupId": "行动预备组A1",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "fangthefire-sharpened",
+    "name": "历阵锐枪芬",
+    "nameEn": "Fang the Fire-sharpened",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/5a/%E5%A4%B4%E5%83%8F_%E5%8E%86%E9%98%B5%E9%94%90%E6%9E%AA%E8%8A%AC.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "fartooth",
+    "name": "远牙",
+    "nameEn": "Fartooth",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "神射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E8%BF%9C%E7%89%99.png",
+    "groupId": "红松骑士团",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "feater",
+    "name": "食铁兽",
+    "nameEn": "FEater",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "推击手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E9%A3%9F%E9%93%81%E5%85%BD.png",
+    "groupId": "炎-龙门",
+    "painter": "RAN"
+  },
+  {
+    "id": "fiammetta",
+    "name": "菲亚梅塔",
+    "nameEn": "Fiammetta",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E8%8F%B2%E4%BA%9A%E6%A2%85%E5%A1%94.png",
+    "groupId": "拉特兰",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "figurino",
+    "name": "裁度",
+    "nameEn": "Figurino",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "行商",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E8%A3%81%E5%BA%A6.png",
+    "groupId": "叙拉古",
+    "painter": "伍秋秋秋秋"
+  },
+  {
+    "id": "firewatch",
+    "name": "守林人",
+    "nameEn": "Firewatch",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "神射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E5%AE%88%E6%9E%97%E4%BA%BA.png",
+    "groupId": "罗德岛",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "firewhistle",
+    "name": "火哨",
+    "nameEn": "Firewhistle",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "要塞",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E7%81%AB%E5%93%A8.png",
+    "groupId": "雷姆必拓",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "flamebringer",
+    "name": "炎客",
+    "nameEn": "Flamebringer",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E7%82%8E%E5%AE%A2.png",
+    "groupId": "罗德岛",
+    "painter": "虎三"
+  },
+  {
+    "id": "flametail",
+    "name": "焰尾",
+    "nameEn": "Flametail",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/c/c8/%E5%A4%B4%E5%83%8F_%E7%84%B0%E5%B0%BE.png",
+    "groupId": "红松骑士团",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "flint",
+    "name": "燧石",
+    "nameEn": "Flint",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E7%87%A7%E7%9F%B3.png",
+    "groupId": "萨尔贡",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "folinic",
+    "name": "亚叶",
+    "nameEn": "Folinic",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b5/%E5%A4%B4%E5%83%8F_%E4%BA%9A%E5%8F%B6.png",
+    "groupId": "罗德岛",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "franka",
+    "name": "芙兰卡",
+    "nameEn": "Franka",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/2/2b/%E5%A4%B4%E5%83%8F_%E8%8A%99%E5%85%B0%E5%8D%A1.png",
+    "groupId": "黑钢国际",
+    "painter": "TOKI"
+  },
+  {
+    "id": "friston-3",
+    "name": "Friston-3",
+    "nameEn": "Friston-3",
+    "rarity": 1,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "支援机械",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_Friston-3.png",
+    "groupId": "罗德岛",
+    "painter": "过失帝国"
+  },
+  {
+    "id": "frost",
+    "name": "霜华",
+    "nameEn": "Frost",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "陷阱师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "召唤",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/5/51/%E5%A4%B4%E5%83%8F_%E9%9C%9C%E5%8D%8E.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "frostleaf",
+    "name": "霜叶",
+    "nameEn": "Frostleaf",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "减速",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E9%9C%9C%E5%8F%B6.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "fuze",
+    "name": "导火索",
+    "nameEn": "Fuze",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E5%AF%BC%E7%81%AB%E7%B4%A2.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "gavial",
+    "name": "嘉维尔",
+    "nameEn": "Gavial",
+    "rarity": 4,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E5%98%89%E7%BB%B4%E5%B0%94.png",
+    "groupId": "罗德岛",
+    "painter": "LLC"
+  },
+  {
+    "id": "gavialtheinvincible",
+    "name": "百炼嘉维尔",
+    "nameEn": "Gavial the Invincible",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/1/1b/%E5%A4%B4%E5%83%8F_%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94.png",
+    "groupId": "罗德岛",
+    "painter": "LLC"
+  },
+  {
+    "id": "gitano",
+    "name": "远山",
+    "nameEn": "Gitano",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%BF%9C%E5%B1%B1.png",
+    "groupId": "萨米",
+    "painter": "谜肘"
+  },
+  {
+    "id": "gladiia",
+    "name": "歌蕾蒂娅",
+    "nameEn": "Gladiia",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "钩索师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E6%AD%8C%E8%95%BE%E8%92%82%E5%A8%85.png",
+    "groupId": "深海猎人",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "glaucus",
+    "name": "格劳克斯",
+    "nameEn": "Glaucus",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%A0%BC%E5%8A%B3%E5%85%8B%E6%96%AF.png",
+    "groupId": "伊比利亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "gnosis",
+    "name": "灵知",
+    "nameEn": "Gnosis",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "削弱者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/9/9f/%E5%A4%B4%E5%83%8F_%E7%81%B5%E7%9F%A5.png",
+    "groupId": "喀兰贸易",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "goldenglow",
+    "name": "澄闪",
+    "nameEn": "Goldenglow",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "驭械术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E6%BE%84%E9%97%AA.png",
+    "groupId": "维多利亚",
+    "painter": "Namie"
+  },
+  {
+    "id": "gracebearer",
+    "name": "聆音",
+    "nameEn": "Gracebearer",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "本源近卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/10/%E5%A4%B4%E5%83%8F_%E8%81%86%E9%9F%B3.png",
+    "groupId": "玻利瓦尔",
+    "painter": "水滴鱼"
+  },
+  {
+    "id": "grainbuds",
+    "name": "小满",
+    "nameEn": "Grain Buds",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/1/1d/%E5%A4%B4%E5%83%8F_%E5%B0%8F%E6%BB%A1.png",
+    "groupId": "炎",
+    "painter": "YUJI"
+  },
+  {
+    "id": "grani",
+    "name": "格拉尼",
+    "nameEn": "Grani",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E6%A0%BC%E6%8B%89%E5%B0%BC.png",
+    "groupId": "维多利亚",
+    "painter": "alchemaniac"
+  },
+  {
+    "id": "gravel",
+    "name": "砾",
+    "nameEn": "Gravel",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/c/ce/%E5%A4%B4%E5%83%8F_%E7%A0%BE.png",
+    "groupId": "卡西米尔",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "greythroat",
+    "name": "灰喉",
+    "nameEn": "GreyThroat",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E7%81%B0%E5%96%89.png",
+    "groupId": "罗德岛",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "greyy",
+    "name": "格雷伊",
+    "nameEn": "Greyy",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E6%A0%BC%E9%9B%B7%E4%BC%8A.png",
+    "groupId": "玻利瓦尔",
+    "painter": "我妻洛酱"
+  },
+  {
+    "id": "greyythelightningbearer",
+    "name": "承曦格雷伊",
+    "nameEn": "Greyy the Lightningbearer",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "投掷手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/e/e2/%E5%A4%B4%E5%83%8F_%E6%89%BF%E6%9B%A6%E6%A0%BC%E9%9B%B7%E4%BC%8A.png",
+    "groupId": "罗德岛",
+    "painter": "我妻洛酱"
+  },
+  {
+    "id": "hadiya",
+    "name": "哈蒂娅",
+    "nameEn": "Hadiya",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "佣兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/3/3c/%E5%A4%B4%E5%83%8F_%E5%93%88%E8%92%82%E5%A8%85.png",
+    "groupId": "萨尔贡",
+    "painter": "松尾 省吾"
+  },
+  {
+    "id": "harmonie",
+    "name": "和弦",
+    "nameEn": "Harmonie",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "秘术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/e/ed/%E5%A4%B4%E5%83%8F_%E5%92%8C%E5%BC%A6.png",
+    "groupId": "塔拉",
+    "painter": "STAR影法师"
+  },
+  {
+    "id": "harold",
+    "name": "哈洛德",
+    "nameEn": "Harold",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "行医",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/2/22/%E5%A4%B4%E5%83%8F_%E5%93%88%E6%B4%9B%E5%BE%B7.png",
+    "groupId": "维多利亚",
+    "painter": "一千"
+  },
+  {
+    "id": "haruka",
+    "name": "遥",
+    "nameEn": "Haruka",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/e/ec/%E5%A4%B4%E5%83%8F_%E9%81%A5.png",
+    "groupId": "东",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "haze",
+    "name": "夜烟",
+    "nameEn": "Haze",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/5/55/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E7%83%9F.png",
+    "groupId": "维多利亚",
+    "painter": "Skade"
+  },
+  {
+    "id": "heavyrain",
+    "name": "暴雨",
+    "nameEn": "Heavyrain",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E6%9A%B4%E9%9B%A8.png",
+    "groupId": "罗德岛",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "heidi",
+    "name": "海蒂",
+    "nameEn": "Heidi",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "吟游者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%B5%B7%E8%92%82.png",
+    "groupId": "维多利亚",
+    "painter": "熊太"
+  },
+  {
+    "id": "hellagur",
+    "name": "赫拉格",
+    "nameEn": "Hellagur",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "武者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E8%B5%AB%E6%8B%89%E6%A0%BC.png",
+    "groupId": "乌萨斯",
+    "painter": "Liduke"
+  },
+  {
+    "id": "hibiscus",
+    "name": "芙蓉",
+    "nameEn": "Hibiscus",
+    "rarity": 3,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/d/d3/%E5%A4%B4%E5%83%8F_%E8%8A%99%E8%93%89.png",
+    "groupId": "行动预备组A1",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "hibiscusthepurifier",
+    "name": "濯尘芙蓉",
+    "nameEn": "Hibiscus the Purifier",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "咒愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/8/8d/%E5%A4%B4%E5%83%8F_%E6%BF%AF%E5%B0%98%E8%8A%99%E8%93%89.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "highmore",
+    "name": "海沫",
+    "nameEn": "Highmore",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "收割者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/6c/%E5%A4%B4%E5%83%8F_%E6%B5%B7%E6%B2%AB.png",
+    "groupId": "伊比利亚",
+    "painter": "Horin"
+  },
+  {
+    "id": "hoederer",
+    "name": "赫德雷",
+    "nameEn": "Hoederer",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "重剑手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E8%B5%AB%E5%BE%B7%E9%9B%B7.png",
+    "groupId": "巴别塔",
+    "painter": "树豚"
+  },
+  {
+    "id": "honeyberry",
+    "name": "蜜莓",
+    "nameEn": "Honeyberry",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "行医",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E8%9C%9C%E8%8E%93.png",
+    "groupId": "雷姆必拓",
+    "painter": "Liyu黎"
+  },
+  {
+    "id": "hoolheyak",
+    "name": "霍尔海雅",
+    "nameEn": "Ho'olheyak",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/9/9e/%E5%A4%B4%E5%83%8F_%E9%9C%8D%E5%B0%94%E6%B5%B7%E9%9B%85.png",
+    "groupId": "哥伦比亚",
+    "painter": "LM7"
+  },
+  {
+    "id": "horn",
+    "name": "号角",
+    "nameEn": "Horn",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "要塞",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/3/3f/%E5%A4%B4%E5%83%8F_%E5%8F%B7%E8%A7%92.png",
+    "groupId": "维多利亚",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "hoshiguma",
+    "name": "星熊",
+    "nameEn": "Hoshiguma",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E6%98%9F%E7%86%8A.png",
+    "groupId": "龙门近卫局",
+    "painter": "Infukun"
+  },
+  {
+    "id": "hoshigumathebreacher",
+    "name": "斩业星熊",
+    "nameEn": "Hoshiguma the Breacher",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "驭法铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/e/e5/%E5%A4%B4%E5%83%8F_%E6%96%A9%E4%B8%9A%E6%98%9F%E7%86%8A.png",
+    "groupId": "龙门近卫局",
+    "painter": "树豚"
+  },
+  {
+    "id": "humus",
+    "name": "休谟斯",
+    "nameEn": "Humus",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "收割者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/e/e0/%E5%A4%B4%E5%83%8F_%E4%BC%91%E8%B0%9F%E6%96%AF.png",
+    "groupId": "罗德岛",
+    "painter": "我妻洛酱"
+  },
+  {
+    "id": "hung",
+    "name": "吽",
+    "nameEn": "Hung",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/4/41/%E5%A4%B4%E5%83%8F_%E5%90%BD.png",
+    "groupId": "鲤氏侦探事务所",
+    "painter": "KuroBlood"
+  },
+  {
+    "id": "iana",
+    "name": "双月",
+    "nameEn": "Iana",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "傀儡师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "削弱",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/f/ff/%E5%A4%B4%E5%83%8F_%E5%8F%8C%E6%9C%88.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "ifrit",
+    "name": "伊芙利特",
+    "nameEn": "Ifrit",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "轰击术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/e/ed/%E5%A4%B4%E5%83%8F_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9.png",
+    "groupId": "莱茵生命",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "indigo",
+    "name": "深靛",
+    "nameEn": "Indigo",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "秘术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E9%9D%9B.png",
+    "groupId": "伊比利亚",
+    "painter": "织布机loom"
+  },
+  {
+    "id": "indra",
+    "name": "因陀罗",
+    "nameEn": "Indra",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E5%9B%A0%E9%99%80%E7%BD%97.png",
+    "groupId": "格拉斯哥帮",
+    "painter": "Infukun"
+  },
+  {
+    "id": "ines",
+    "name": "伊内丝",
+    "nameEn": "Ines",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "情报官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/8/8c/%E5%A4%B4%E5%83%8F_%E4%BC%8A%E5%86%85%E4%B8%9D.png",
+    "groupId": "巴别塔",
+    "painter": "板板"
+  },
+  {
+    "id": "insider",
+    "name": "隐现",
+    "nameEn": "Insider",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/85/%E5%A4%B4%E5%83%8F_%E9%9A%90%E7%8E%B0.png",
+    "groupId": "拉特兰",
+    "painter": "umo_yszx"
+  },
+  {
+    "id": "irene",
+    "name": "艾丽妮",
+    "nameEn": "Irene",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "剑豪",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E8%89%BE%E4%B8%BD%E5%A6%AE.png",
+    "groupId": "伊比利亚",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "iris",
+    "name": "爱丽丝",
+    "nameEn": "Iris",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "秘术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/9/9a/%E5%A4%B4%E5%83%8F_%E7%88%B1%E4%B8%BD%E4%B8%9D.png",
+    "groupId": "维多利亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "jackie",
+    "name": "杰克",
+    "nameEn": "Jackie",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d8/%E5%A4%B4%E5%83%8F_%E6%9D%B0%E5%85%8B.png",
+    "groupId": "哥伦比亚",
+    "painter": "Nagu"
+  },
+  {
+    "id": "jaye",
+    "name": "孑",
+    "nameEn": "Jaye",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "行商",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/54/%E5%A4%B4%E5%83%8F_%E5%AD%91.png",
+    "groupId": "炎-龙门",
+    "painter": "阿鬼"
+  },
+  {
+    "id": "jessica",
+    "name": "杰西卡",
+    "nameEn": "Jessica",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E6%9D%B0%E8%A5%BF%E5%8D%A1.png",
+    "groupId": "黑钢国际",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "jessicatheliberated",
+    "name": "涤火杰西卡",
+    "nameEn": "Jessica the Liberated",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "哨戒铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/14/%E5%A4%B4%E5%83%8F_%E6%B6%A4%E7%81%AB%E6%9D%B0%E8%A5%BF%E5%8D%A1.png",
+    "groupId": "黑钢国际",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "jieyun",
+    "name": "截云",
+    "nameEn": "Jieyun",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E6%88%AA%E4%BA%91.png",
+    "groupId": "炎",
+    "painter": "伍秋秋秋秋"
+  },
+  {
+    "id": "justiceknight",
+    "name": "正义骑士号",
+    "nameEn": "\"Justice Knight\"",
+    "rarity": 1,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "支援机械",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E6%AD%A3%E4%B9%89%E9%AA%91%E5%A3%AB%E5%8F%B7.png",
+    "groupId": "红松骑士团",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "kafka",
+    "name": "卡夫卡",
+    "nameEn": "Kafka",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/8/8d/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E5%A4%AB%E5%8D%A1.png",
+    "groupId": "哥伦比亚",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "kaltsit",
+    "name": "凯尔希",
+    "nameEn": "Kal'tsit",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "召唤",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C.png",
+    "groupId": "罗德岛",
+    "painter": "唯@W"
+  },
+  {
+    "id": "kazemaru",
+    "name": "风丸",
+    "nameEn": "Kazemaru",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "傀儡师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/1/12/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E4%B8%B8.png",
+    "groupId": "东",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "kestrel",
+    "name": "红隼",
+    "nameEn": "Kestrel",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/4/45/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E9%9A%BC.png",
+    "groupId": "萨尔贡",
+    "painter": "釜飯轟々丸"
+  },
+  {
+    "id": "kichisei",
+    "name": "吉星",
+    "nameEn": "Kichisei",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "散射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E5%90%89%E6%98%9F.png",
+    "groupId": "东",
+    "painter": "Horin"
+  },
+  {
+    "id": "kirara",
+    "name": "绮良",
+    "nameEn": "Kirara",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "伏击客",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/a/a8/%E5%A4%B4%E5%83%8F_%E7%BB%AE%E8%89%AF.png",
+    "groupId": "东",
+    "painter": "我妻洛酱"
+  },
+  {
+    "id": "kirinryato",
+    "name": "麒麟R夜刀",
+    "nameEn": "Kirin R Yato",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/e/e5/%E5%A4%B4%E5%83%8F_%E9%BA%92%E9%BA%9FR%E5%A4%9C%E5%88%80.png",
+    "groupId": "行动组A4",
+    "painter": "一千"
+  },
+  {
+    "id": "kjera",
+    "name": "耶拉",
+    "nameEn": "Kjera",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "驭械术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/7/71/%E5%A4%B4%E5%83%8F_%E8%80%B6%E6%8B%89.png",
+    "groupId": "谢拉格",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "kroos",
+    "name": "克洛丝",
+    "nameEn": "Kroos",
+    "rarity": 3,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b9/%E5%A4%B4%E5%83%8F_%E5%85%8B%E6%B4%9B%E4%B8%9D.png",
+    "groupId": "行动预备组A1",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "kroosthekeenglint",
+    "name": "寒芒克洛丝",
+    "nameEn": "Kroos the Keen Glint",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/39/%E5%A4%B4%E5%83%8F_%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "laios",
+    "name": "莱欧斯",
+    "nameEn": "Laios",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/9/9c/%E5%A4%B4%E5%83%8F_%E8%8E%B1%E6%AC%A7%E6%96%AF.png",
+    "groupId": "莱欧斯小队",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "lancet-2",
+    "name": "Lancet-2",
+    "nameEn": "Lancet-2",
+    "rarity": 1,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "支援机械",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_Lancet-2.png",
+    "groupId": "罗德岛",
+    "painter": "TOKI"
+  },
+  {
+    "id": "lapluma",
+    "name": "羽毛笔",
+    "nameEn": "La Pluma",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "收割者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E7%BE%BD%E6%AF%9B%E7%AC%94.png",
+    "groupId": "玻利瓦尔",
+    "painter": "LAL!ROLE"
+  },
+  {
+    "id": "lappland",
+    "name": "拉普兰德",
+    "nameEn": "Lappland",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/b/bf/%E5%A4%B4%E5%83%8F_%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
+    "groupId": "叙拉古",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "lapplandthedecadenza",
+    "name": "荒芜拉普兰德",
+    "nameEn": "Lappland the Decadenza",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "驭械术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E8%8D%92%E8%8A%9C%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
+    "groupId": "叙拉古",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "lava",
+    "name": "炎熔",
+    "nameEn": "Lava",
+    "rarity": 3,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E7%82%8E%E7%86%94.png",
+    "groupId": "行动预备组A1",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "lavathepurgatory",
+    "name": "炎狱炎熔",
+    "nameEn": "Lava the Purgatory",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/20/%E5%A4%B4%E5%83%8F_%E7%82%8E%E7%8B%B1%E7%82%8E%E7%86%94.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "lee",
+    "name": "老鲤",
+    "nameEn": "Lee",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "行商",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/e/e5/%E5%A4%B4%E5%83%8F_%E8%80%81%E9%B2%A4.png",
+    "groupId": "鲤氏侦探事务所",
+    "painter": "KuroBlood"
+  },
+  {
+    "id": "leizi",
+    "name": "惊蛰",
+    "nameEn": "Leizi",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "链术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E6%83%8A%E8%9B%B0.png",
+    "groupId": "炎",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "leizithethunderbringer",
+    "name": "司霆惊蛰",
+    "nameEn": "Leizi the Thunderbringer",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "解放者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/5/5c/%E5%A4%B4%E5%83%8F_%E5%8F%B8%E9%9C%86%E6%83%8A%E8%9B%B0.png",
+    "groupId": "炎",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "lemuen",
+    "name": "蕾缪安",
+    "nameEn": "Lemuen",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "神射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E8%95%BE%E7%BC%AA%E5%AE%89.png",
+    "groupId": "拉特兰",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "leonhardt",
+    "name": "莱恩哈特",
+    "nameEn": "Leonhardt",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/0/03/%E5%A4%B4%E5%83%8F_%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9.png",
+    "groupId": "雷姆必拓",
+    "painter": "野崎つばた"
+  },
+  {
+    "id": "lessing",
+    "name": "止颂",
+    "nameEn": "Lessing",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%AD%A2%E9%A2%82.png",
+    "groupId": "莱塔尼亚",
+    "painter": "カワグチ"
+  },
+  {
+    "id": "lin",
+    "name": "林",
+    "nameEn": "Lin",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "阵法术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/a/aa/%E5%A4%B4%E5%83%8F_%E6%9E%97.png",
+    "groupId": "炎-龙门",
+    "painter": "三目YYB"
+  },
+  {
+    "id": "ling",
+    "name": "令",
+    "nameEn": "Ling",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤",
+      "支援",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/2/2c/%E5%A4%B4%E5%83%8F_%E4%BB%A4.png",
+    "groupId": "炎-岁",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "liskarm",
+    "name": "雷蛇",
+    "nameEn": "Liskarm",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "哨戒铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f5/%E5%A4%B4%E5%83%8F_%E9%9B%B7%E8%9B%87.png",
+    "groupId": "黑钢国际",
+    "painter": "TOKI"
+  },
+  {
+    "id": "logos",
+    "name": "逻各斯",
+    "nameEn": "Logos",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/4/44/%E5%A4%B4%E5%83%8F_%E9%80%BB%E5%90%84%E6%96%AF.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "Skade"
+  },
+  {
+    "id": "lordsharp",
+    "name": "领主·Sharp",
+    "nameEn": "Lord/Sharp",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E9%A2%86%E4%B8%BB%C2%B7Sharp.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "lucilla",
+    "name": "海霓",
+    "nameEn": "Lucilla",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "削弱者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%B5%B7%E9%9C%93.png",
+    "groupId": "阿戈尔",
+    "painter": "色塩"
+  },
+  {
+    "id": "lumen",
+    "name": "流明",
+    "nameEn": "Lumen",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "疗养师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%B5%81%E6%98%8E.png",
+    "groupId": "伊比利亚",
+    "painter": "一千"
+  },
+  {
+    "id": "lunacub",
+    "name": "子月",
+    "nameEn": "Lunacub",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "神射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/d/db/%E5%A4%B4%E5%83%8F_%E5%AD%90%E6%9C%88.png",
+    "groupId": "叙拉古",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "luoxiaohei",
+    "name": "罗小黑",
+    "nameEn": "Luo Xiaohei",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/50/%E5%A4%B4%E5%83%8F_%E7%BD%97%E5%B0%8F%E9%BB%91.png",
+    "groupId": "炎",
+    "painter": "九日九号"
+  },
+  {
+    "id": "lutonada",
+    "name": "露托",
+    "nameEn": "Lutonada",
+    "rarity": 4,
+    "class": "重装",
+    "branch": "不屈者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "生存",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/7/77/%E5%A4%B4%E5%83%8F_%E9%9C%B2%E6%89%98.png",
+    "groupId": "玻利瓦尔",
+    "painter": "水滴鱼"
+  },
+  {
+    "id": "magallan",
+    "name": "麦哲伦",
+    "nameEn": "Magallan",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "减速",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/4/4d/%E5%A4%B4%E5%83%8F_%E9%BA%A6%E5%93%B2%E4%BC%A6.png",
+    "groupId": "莱茵生命",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "manticore",
+    "name": "狮蝎",
+    "nameEn": "Manticore",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "伏击客",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E7%8B%AE%E8%9D%8E.png",
+    "groupId": "萨尔贡",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "mantra",
+    "name": "真言",
+    "nameEn": "Mantra",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "本源术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "元素",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E7%9C%9F%E8%A8%80.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "板板"
+  },
+  {
+    "id": "marcille",
+    "name": "玛露西尔",
+    "nameEn": "Marcille",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "治疗",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/8/84/%E5%A4%B4%E5%83%8F_%E7%8E%9B%E9%9C%B2%E8%A5%BF%E5%B0%94.png",
+    "groupId": "莱欧斯小队",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "matoimaru",
+    "name": "缠丸",
+    "nameEn": "Matoimaru",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/13/%E5%A4%B4%E5%83%8F_%E7%BC%A0%E4%B8%B8.png",
+    "groupId": "东",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "matsukiri",
+    "name": "松桐",
+    "nameEn": "Matsukiri",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "策士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E6%9D%BE%E6%A1%90.png",
+    "groupId": "东",
+    "painter": "AerialB"
+  },
+  {
+    "id": "matterhorn",
+    "name": "角峰",
+    "nameEn": "Matterhorn",
+    "rarity": 4,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/e/e4/%E5%A4%B4%E5%83%8F_%E8%A7%92%E5%B3%B0.png",
+    "groupId": "喀兰贸易",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "may",
+    "name": "梅",
+    "nameEn": "May",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E6%A2%85.png",
+    "groupId": "维多利亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "mayer",
+    "name": "梅尔",
+    "nameEn": "Mayer",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E6%A2%85%E5%B0%94.png",
+    "groupId": "莱茵生命",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "mechanist",
+    "name": "Mechanist(卫戍协议)",
+    "nameEn": "Mechanist",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/c/ca/%E5%A4%B4%E5%83%8F_Mechanist(%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE).png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "melanite",
+    "name": "玫拉",
+    "nameEn": "Melanite",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "重射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E7%8E%AB%E6%8B%89.png",
+    "groupId": "哥伦比亚",
+    "painter": "redjuice"
+  },
+  {
+    "id": "melantha",
+    "name": "玫兰莎",
+    "nameEn": "Melantha",
+    "rarity": 3,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E7%8E%AB%E5%85%B0%E8%8E%8E.png",
+    "groupId": "行动预备组A4",
+    "painter": "一立里子"
+  },
+  {
+    "id": "meteor",
+    "name": "流星",
+    "nameEn": "Meteor",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/1/14/%E5%A4%B4%E5%83%8F_%E6%B5%81%E6%98%9F.png",
+    "groupId": "卡西米尔",
+    "painter": "HUG"
+  },
+  {
+    "id": "meteorite",
+    "name": "陨星",
+    "nameEn": "Meteorite",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/e/ea/%E5%A4%B4%E5%83%8F_%E9%99%A8%E6%98%9F.png",
+    "groupId": "罗德岛",
+    "painter": "TOKI"
+  },
+  {
+    "id": "midnight",
+    "name": "月见夜",
+    "nameEn": "Midnight",
+    "rarity": 3,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b7/%E5%A4%B4%E5%83%8F_%E6%9C%88%E8%A7%81%E5%A4%9C.png",
+    "groupId": "行动预备组A6",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "minimalist",
+    "name": "至简",
+    "nameEn": "Minimalist",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "驭械术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/9/98/%E5%A4%B4%E5%83%8F_%E8%87%B3%E7%AE%80.png",
+    "groupId": "萨尔贡",
+    "painter": "〇亻"
+  },
+  {
+    "id": "mint",
+    "name": "薄绿",
+    "nameEn": "Mint",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "阵法术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E8%96%84%E7%BB%BF.png",
+    "groupId": "维多利亚",
+    "painter": "ヌードル"
+  },
+  {
+    "id": "misery",
+    "name": "Misery(卫戍协议)",
+    "nameEn": "Misery",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/e/ea/%E5%A4%B4%E5%83%8F_Misery(%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE).png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "miss.christine",
+    "name": "Miss.Christine",
+    "nameEn": "Miss.Christine",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "本源术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "元素",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/10/%E5%A4%B4%E5%83%8F_Miss.Christine.png",
+    "groupId": "维多利亚",
+    "painter": "YUJI"
+  },
+  {
+    "id": "misumiuika",
+    "name": "三角初华",
+    "nameEn": "Misumi Uika",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "吟游者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/b/b4/%E5%A4%B4%E5%83%8F_%E4%B8%89%E8%A7%92%E5%88%9D%E5%8D%8E.png",
+    "groupId": "Ave Mujica",
+    "painter": "折射镜"
+  },
+  {
+    "id": "mitm",
+    "name": "渡桥",
+    "nameEn": "Mitm",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "战术家",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "先锋",
+      "费用回复",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/f/fd/%E5%A4%B4%E5%83%8F_%E6%B8%A1%E6%A1%A5.png",
+    "groupId": "罗德岛",
+    "painter": "〇亻"
+  },
+  {
+    "id": "mizuki",
+    "name": "水月",
+    "nameEn": "Mizuki",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "伏击客",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/0/05/%E5%A4%B4%E5%83%8F_%E6%B0%B4%E6%9C%88.png",
+    "groupId": "东",
+    "painter": "Namie"
+  },
+  {
+    "id": "młynar",
+    "name": "玛恩纳",
+    "nameEn": "Młynar",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "解放者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/0/08/%E5%A4%B4%E5%83%8F_%E7%8E%9B%E6%81%A9%E7%BA%B3.png",
+    "groupId": "卡西米尔",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "mon3tr",
+    "name": "Mon3tr",
+    "nameEn": "Mon3tr",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "链愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_Mon3tr.png",
+    "groupId": "罗德岛",
+    "painter": "伍秋秋秋秋"
+  },
+  {
+    "id": "morgan",
+    "name": "摩根",
+    "nameEn": "Morgan",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E6%91%A9%E6%A0%B9.png",
+    "groupId": "格拉斯哥帮",
+    "painter": "Infukun"
+  },
+  {
+    "id": "mostima",
+    "name": "莫斯提马",
+    "nameEn": "Mostima",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "支援",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/0/0b/%E5%A4%B4%E5%83%8F_%E8%8E%AB%E6%96%AF%E6%8F%90%E9%A9%AC.png",
+    "groupId": "拉特兰",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "mountain",
+    "name": "山",
+    "nameEn": "Mountain",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "斗士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/e/ec/%E5%A4%B4%E5%83%8F_%E5%B1%B1.png",
+    "groupId": "哥伦比亚",
+    "painter": "WincalBlanke"
+  },
+  {
+    "id": "mousse",
+    "name": "慕斯",
+    "nameEn": "Mousse",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/fc/%E5%A4%B4%E5%83%8F_%E6%85%95%E6%96%AF.png",
+    "groupId": "维多利亚",
+    "painter": "Iritoa"
+  },
+  {
+    "id": "mr.nothing",
+    "name": "乌有",
+    "nameEn": "Mr.Nothing",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "行商",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E6%9C%89.png",
+    "groupId": "炎",
+    "painter": "Skade"
+  },
+  {
+    "id": "mudrock",
+    "name": "泥岩",
+    "nameEn": "Mudrock",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "不屈者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "生存",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/0/06/%E5%A4%B4%E5%83%8F_%E6%B3%A5%E5%B2%A9.png",
+    "groupId": "罗德岛",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "muelsyse",
+    "name": "缪尔赛思",
+    "nameEn": "Muelsyse",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "战术家",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "先锋",
+      "费用回复",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/3/3a/%E5%A4%B4%E5%83%8F_%E7%BC%AA%E5%B0%94%E8%B5%9B%E6%80%9D.png",
+    "groupId": "莱茵生命",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "mulberry",
+    "name": "桑葚",
+    "nameEn": "Mulberry",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "行医",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/0/0f/%E5%A4%B4%E5%83%8F_%E6%A1%91%E8%91%9A.png",
+    "groupId": "炎",
+    "painter": "Jacknife"
+  },
+  {
+    "id": "myrrh",
+    "name": "末药",
+    "nameEn": "Myrrh",
+    "rarity": 4,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%9C%AB%E8%8D%AF.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "myrtle",
+    "name": "桃金娘",
+    "nameEn": "Myrtle",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "执旗手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/9/9d/%E5%A4%B4%E5%83%8F_%E6%A1%83%E9%87%91%E5%A8%98.png",
+    "groupId": "罗德岛",
+    "painter": "咩煲"
+  },
+  {
+    "id": "narantuya",
+    "name": "娜仁图亚",
+    "nameEn": "Narantuya",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "回环射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/ba/%E5%A4%B4%E5%83%8F_%E5%A8%9C%E4%BB%81%E5%9B%BE%E4%BA%9A.png",
+    "groupId": "萨尔贡",
+    "painter": "板板"
+  },
+  {
+    "id": "nasti",
+    "name": "娜斯提",
+    "nameEn": "Nasti",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "工匠",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "辅助",
+      "支援",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E5%A8%9C%E6%96%AF%E6%8F%90.png",
+    "groupId": "莱茵生命",
+    "painter": "AerialB"
+  },
+  {
+    "id": "nearl",
+    "name": "临光",
+    "nameEn": "Nearl",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/1/1a/%E5%A4%B4%E5%83%8F_%E4%B8%B4%E5%85%89.png",
+    "groupId": "使徒",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "nearltheradiantknight",
+    "name": "耀骑士临光",
+    "nameEn": "Nearl the Radiant Knight",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/0/03/%E5%A4%B4%E5%83%8F_%E8%80%80%E9%AA%91%E5%A3%AB%E4%B8%B4%E5%85%89.png",
+    "groupId": "卡西米尔",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "necrass",
+    "name": "死芒",
+    "nameEn": "Necrass",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "塑灵术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "召唤",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%AD%BB%E8%8A%92.png",
+    "groupId": "塔拉",
+    "painter": "STAR影法师"
+  },
+  {
+    "id": "nian",
+    "name": "年",
+    "nameEn": "Nian",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/9/9c/%E5%A4%B4%E5%83%8F_%E5%B9%B4.png",
+    "groupId": "炎-岁",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "nightingale",
+    "name": "夜莺",
+    "nameEn": "Nightingale",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "群愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/6/64/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E8%8E%BA.png",
+    "groupId": "使徒",
+    "painter": "Skade"
+  },
+  {
+    "id": "nightmare",
+    "name": "夜魔",
+    "nameEn": "Nightmare",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "治疗",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/a/a7/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E9%AD%94.png",
+    "groupId": "维多利亚",
+    "painter": "Lpip"
+  },
+  {
+    "id": "nine-coloreddeer",
+    "name": "九色鹿",
+    "nameEn": "Nine-Colored Deer",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E4%B9%9D%E8%89%B2%E9%B9%BF.png",
+    "groupId": "炎",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "noircorne",
+    "name": "黑角",
+    "nameEn": "Noir Corne",
+    "rarity": 2,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "新手"
+    ],
+    "avatar": "https://media.prts.wiki/f/f1/%E5%A4%B4%E5%83%8F_%E9%BB%91%E8%A7%92.png",
+    "groupId": "行动组A4",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "nowell",
+    "name": "诺威尔",
+    "nameEn": "Nowell",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "疗养师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/6/69/%E5%A4%B4%E5%83%8F_%E8%AF%BA%E5%A8%81%E5%B0%94.png",
+    "groupId": "维多利亚",
+    "painter": "板板"
+  },
+  {
+    "id": "nymph",
+    "name": "妮芙",
+    "nameEn": "Nymph",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "本源术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "元素",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/1/1a/%E5%A4%B4%E5%83%8F_%E5%A6%AE%E8%8A%99.png",
+    "groupId": "罗德岛",
+    "painter": "YUJI"
+  },
+  {
+    "id": "odda",
+    "name": "奥达",
+    "nameEn": "Odda",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "撼地者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E5%A5%A5%E8%BE%BE.png",
+    "groupId": "罗德岛",
+    "painter": "我妻洛酱"
+  },
+  {
+    "id": "orchid",
+    "name": "梓兰",
+    "nameEn": "Orchid",
+    "rarity": 3,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E6%A2%93%E5%85%B0.png",
+    "groupId": "行动预备组A6",
+    "painter": "Skade"
+  },
+  {
+    "id": "pallas",
+    "name": "帕拉斯",
+    "nameEn": "Pallas",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "教官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E5%B8%95%E6%8B%89%E6%96%AF.png",
+    "groupId": "米诺斯",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "paprika",
+    "name": "明椒",
+    "nameEn": "Paprika",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "链愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/3f/%E5%A4%B4%E5%83%8F_%E6%98%8E%E6%A4%92.png",
+    "groupId": "罗德岛",
+    "painter": "板板"
+  },
+  {
+    "id": "papyrus",
+    "name": "莎草",
+    "nameEn": "Papyrus",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "链愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_%E8%8E%8E%E8%8D%89.png",
+    "groupId": "萨尔贡",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "passenger",
+    "name": "异客",
+    "nameEn": "Passenger",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "链术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d2/%E5%A4%B4%E5%83%8F_%E5%BC%82%E5%AE%A2.png",
+    "groupId": "萨尔贡",
+    "painter": "Skade"
+  },
+  {
+    "id": "penance",
+    "name": "斥罪",
+    "nameEn": "Penance",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "不屈者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/1c/%E5%A4%B4%E5%83%8F_%E6%96%A5%E7%BD%AA.png",
+    "groupId": "叙拉古",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "pepe",
+    "name": "佩佩",
+    "nameEn": "Pepe",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "撼地者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/8/85/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E4%BD%A9.png",
+    "groupId": "萨尔贡",
+    "painter": "Namie"
+  },
+  {
+    "id": "perfumer",
+    "name": "调香师",
+    "nameEn": "Perfumer",
+    "rarity": 4,
+    "class": "医疗",
+    "branch": "群愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/6/6a/%E5%A4%B4%E5%83%8F_%E8%B0%83%E9%A6%99%E5%B8%88.png",
+    "groupId": "罗德岛",
+    "painter": "Lanzi"
+  },
+  {
+    "id": "perfumerthedistilled",
+    "name": "撷英调香师",
+    "nameEn": "Perfumer the Distilled",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/8/8f/%E5%A4%B4%E5%83%8F_%E6%92%B7%E8%8B%B1%E8%B0%83%E9%A6%99%E5%B8%88.png",
+    "groupId": "罗德岛",
+    "painter": "Lanzi"
+  },
+  {
+    "id": "phantom",
+    "name": "傀影",
+    "nameEn": "Phantom",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "控场",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E5%82%80%E5%BD%B1.png",
+    "groupId": "维多利亚",
+    "painter": "Skade"
+  },
+  {
+    "id": "philae",
+    "name": "菲莱",
+    "nameEn": "Philae",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "本源铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "元素",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/0/00/%E5%A4%B4%E5%83%8F_%E8%8F%B2%E8%8E%B1.png",
+    "groupId": "萨尔贡",
+    "painter": "Horin"
+  },
+  {
+    "id": "phonor-0",
+    "name": "PhonoR-0",
+    "nameEn": "PhonoR-0",
+    "rarity": 1,
+    "class": "辅助",
+    "branch": "巫役",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援机械",
+      "元素"
+    ],
+    "avatar": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_PhonoR-0.png",
+    "groupId": "罗德岛",
+    "painter": "M1917史密斯维森"
+  },
+  {
+    "id": "pinecone",
+    "name": "松果",
+    "nameEn": "Pinecone",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "散射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/5e/%E5%A4%B4%E5%83%8F_%E6%9D%BE%E6%9E%9C.png",
+    "groupId": "哥伦比亚",
+    "painter": "TrNyteal"
+  },
+  {
+    "id": "pith",
+    "name": "Pith",
+    "nameEn": "Pith",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/5/59/%E5%A4%B4%E5%83%8F_Pith.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "Cornelies"
+  },
+  {
+    "id": "pith-术师",
+    "name": "Pith",
+    "nameEn": "Pith",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/5/59/%E5%A4%B4%E5%83%8F_Pith.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "Cornelies"
+  },
+  {
+    "id": "platinum",
+    "name": "白金",
+    "nameEn": "Platinum",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%87%91.png",
+    "groupId": "卡西米尔",
+    "painter": "Skade"
+  },
+  {
+    "id": "plume",
+    "name": "翎羽",
+    "nameEn": "Plume",
+    "rarity": 3,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "输出",
+      "费用回复"
+    ],
+    "avatar": "https://media.prts.wiki/1/1f/%E5%A4%B4%E5%83%8F_%E7%BF%8E%E7%BE%BD.png",
+    "groupId": "拉特兰",
+    "painter": "deel"
+  },
+  {
+    "id": "podenco",
+    "name": "波登可",
+    "nameEn": "Podenco",
+    "rarity": 4,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/4/43/%E5%A4%B4%E5%83%8F_%E6%B3%A2%E7%99%BB%E5%8F%AF.png",
+    "groupId": "罗德岛",
+    "painter": "アシマ"
+  },
+  {
+    "id": "poncirus",
+    "name": "青枳",
+    "nameEn": "Poncirus",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/0/0e/%E5%A4%B4%E5%83%8F_%E9%9D%92%E6%9E%B3.png",
+    "groupId": "汐斯塔",
+    "painter": "NOCO"
+  },
+  {
+    "id": "popukar",
+    "name": "泡普卡",
+    "nameEn": "Popukar",
+    "rarity": 3,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/1/16/%E5%A4%B4%E5%83%8F_%E6%B3%A1%E6%99%AE%E5%8D%A1.png",
+    "groupId": "行动预备组A6",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "pramanix",
+    "name": "初雪",
+    "nameEn": "Pramanix",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "削弱者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/d/d7/%E5%A4%B4%E5%83%8F_%E5%88%9D%E9%9B%AA.png",
+    "groupId": "谢拉格",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "pramanixtheprerita",
+    "name": "圣聆初雪",
+    "nameEn": "Pramanix the Prerita",
+    "rarity": 6,
+    "class": "术师",
+    "branch": "阵法术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E8%81%86%E5%88%9D%E9%9B%AA.png",
+    "groupId": "谢拉格",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "projektred",
+    "name": "红",
+    "nameEn": "Projekt Red",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E7%BA%A2.png",
+    "groupId": "S.W.E.E.P.",
+    "painter": "Infukun"
+  },
+  {
+    "id": "provence",
+    "name": "普罗旺斯",
+    "nameEn": "Provence",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "重射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF.png",
+    "groupId": "叙拉古",
+    "painter": "渣念"
+  },
+  {
+    "id": "proviso",
+    "name": "但书",
+    "nameEn": "Proviso",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "削弱",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/b/b0/%E5%A4%B4%E5%83%8F_%E4%BD%86%E4%B9%A6.png",
+    "groupId": "卡西米尔",
+    "painter": "せんむ"
+  },
+  {
+    "id": "ptilopsis",
+    "name": "白面鸮",
+    "nameEn": "Ptilopsis",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "群愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%9D%A2%E9%B8%AE.png",
+    "groupId": "莱茵生命",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "pudding",
+    "name": "布丁",
+    "nameEn": "Pudding",
+    "rarity": 4,
+    "class": "术师",
+    "branch": "链术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b0/%E5%A4%B4%E5%83%8F_%E5%B8%83%E4%B8%81.png",
+    "groupId": "哥伦比亚",
+    "painter": "折射镜"
+  },
+  {
+    "id": "purestream",
+    "name": "清流",
+    "nameEn": "Purestream",
+    "rarity": 4,
+    "class": "医疗",
+    "branch": "疗养师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/1/19/%E5%A4%B4%E5%83%8F_%E6%B8%85%E6%B5%81.png",
+    "groupId": "炎",
+    "painter": "唯@W"
+  },
+  {
+    "id": "puzzle",
+    "name": "谜图",
+    "nameEn": "Puzzle",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "情报官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/7/79/%E5%A4%B4%E5%83%8F_%E8%B0%9C%E5%9B%BE.png",
+    "groupId": "维多利亚",
+    "painter": "kan"
+  },
+  {
+    "id": "qanipalaat",
+    "name": "雪绒",
+    "nameEn": "Qanipalaat",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/8/82/%E5%A4%B4%E5%83%8F_%E9%9B%AA%E7%BB%92.png",
+    "groupId": "萨米",
+    "painter": "三目YYB"
+  },
+  {
+    "id": "qiubai",
+    "name": "仇白",
+    "nameEn": "Qiubai",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/8/8a/%E5%A4%B4%E5%83%8F_%E4%BB%87%E7%99%BD.png",
+    "groupId": "炎",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "quartz",
+    "name": "石英",
+    "nameEn": "Quartz",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "重剑手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/bc/%E5%A4%B4%E5%83%8F_%E7%9F%B3%E8%8B%B1.png",
+    "groupId": "哥伦比亚",
+    "painter": "伍秋秋秋秋"
+  },
+  {
+    "id": "quercus",
+    "name": "夏栎",
+    "nameEn": "Quercus",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/0/08/%E5%A4%B4%E5%83%8F_%E5%A4%8F%E6%A0%8E.png",
+    "groupId": "罗德岛",
+    "painter": "YUJI"
+  },
+  {
+    "id": "raidian",
+    "name": "电弧",
+    "nameEn": "Raidian",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "raidian-辅助",
+    "name": "电弧",
+    "nameEn": "Raidian",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "rangers",
+    "name": "巡林者",
+    "nameEn": "Rangers",
+    "rarity": 2,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "新手"
+    ],
+    "avatar": "https://media.prts.wiki/9/93/%E5%A4%B4%E5%83%8F_%E5%B7%A1%E6%9E%97%E8%80%85.png",
+    "groupId": "行动组A4",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "rathalossnoircorne",
+    "name": "火龙S黑角",
+    "nameEn": "Rathalos S Noir Corne",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "武者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E7%81%AB%E9%BE%99S%E9%BB%91%E8%A7%92.png",
+    "groupId": "行动组A4",
+    "painter": "九日九号"
+  },
+  {
+    "id": "ray",
+    "name": "莱伊",
+    "nameEn": "Ray",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "猎手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/6a/%E5%A4%B4%E5%83%8F_%E8%8E%B1%E4%BC%8A.png",
+    "groupId": "雷姆必拓",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "recordkeeper",
+    "name": "录武官",
+    "nameEn": "Record Keeper",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/0/09/%E5%A4%B4%E5%83%8F_%E5%BD%95%E6%AD%A6%E5%AE%98.png",
+    "groupId": "炎",
+    "painter": "九日九号"
+  },
+  {
+    "id": "reed",
+    "name": "苇草",
+    "nameEn": "Reed",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/7a/%E5%A4%B4%E5%83%8F_%E8%8B%87%E8%8D%89.png",
+    "groupId": "维多利亚",
+    "painter": "STAR影法师"
+  },
+  {
+    "id": "reedtheflameshadow",
+    "name": "焰影苇草",
+    "nameEn": "Reed The Flame Shadow",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "咒愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/9/94/%E5%A4%B4%E5%83%8F_%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89.png",
+    "groupId": "塔拉",
+    "painter": "STAR影法师"
+  },
+  {
+    "id": "reserve(caster)",
+    "name": "预备干员-术师",
+    "nameEn": "Reserve (Caster)",
+    "rarity": 3,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E6%9C%AF%E5%B8%88.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(caster)-术师",
+    "name": "预备干员-术师",
+    "nameEn": "Reserve (Caster)",
+    "rarity": 3,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E6%9C%AF%E5%B8%88.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(defender)",
+    "name": "预备干员-重装",
+    "nameEn": "Reserve (Defender)",
+    "rarity": 3,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E9%87%8D%E8%A3%85.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(defender)-重装",
+    "name": "预备干员-重装",
+    "nameEn": "Reserve (Defender)",
+    "rarity": 3,
+    "class": "重装",
+    "branch": "铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E9%87%8D%E8%A3%85.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(logistic)",
+    "name": "预备干员-后勤",
+    "nameEn": "Reserve (Logistic)",
+    "rarity": 3,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/5/5a/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E5%90%8E%E5%8B%A4.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(melee)",
+    "name": "预备干员-近战",
+    "nameEn": "Reserve (Melee)",
+    "rarity": 3,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E8%BF%91%E6%88%98.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(sniper)",
+    "name": "预备干员-狙击",
+    "nameEn": "Reserve (Sniper)",
+    "rarity": 3,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/51/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E7%8B%99%E5%87%BB.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserve(sniper)-狙击",
+    "name": "预备干员-狙击",
+    "nameEn": "Reserve (Sniper)",
+    "rarity": 3,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/51/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E7%8B%99%E5%87%BB.png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserveoperator-guard",
+    "name": "预备干员-近卫(卫戍协议)",
+    "nameEn": "Reserve Operator - Guard",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E8%BF%91%E5%8D%AB(%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE).png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserveoperator-specialist",
+    "name": "预备干员-特种(卫戍协议)",
+    "nameEn": "Reserve Operator - Specialist",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/e/e6/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E7%89%B9%E7%A7%8D(%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE).png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserveoperator-supporter",
+    "name": "预备干员-辅助(卫戍协议)",
+    "nameEn": "Reserve Operator - Supporter",
+    "rarity": 4,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/8/8c/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E8%BE%85%E5%8A%A9(%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE).png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "reserveoperator-vanguard",
+    "name": "预备干员-先锋(卫戍协议)",
+    "nameEn": "Reserve Operator - Vanguard",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E9%A2%84%E5%A4%87%E5%B9%B2%E5%91%98-%E5%85%88%E9%94%8B(%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE).png",
+    "groupId": "无团队",
+    "painter": ""
+  },
+  {
+    "id": "roberta",
+    "name": "罗比菈塔",
+    "nameEn": "Roberta",
+    "rarity": 4,
+    "class": "辅助",
+    "branch": "工匠",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "辅助",
+      "防护",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/52/%E5%A4%B4%E5%83%8F_%E7%BD%97%E6%AF%94%E8%8F%88%E5%A1%94.png",
+    "groupId": "哥伦比亚",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "robin",
+    "name": "罗宾",
+    "nameEn": "Robin",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "陷阱师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "召唤",
+      "位移"
+    ],
+    "avatar": "https://media.prts.wiki/1/1f/%E5%A4%B4%E5%83%8F_%E7%BD%97%E5%AE%BE.png",
+    "groupId": "哥伦比亚",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "rockrock",
+    "name": "洛洛",
+    "nameEn": "Rockrock",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "驭械术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d4/%E5%A4%B4%E5%83%8F_%E6%B4%9B%E6%B4%9B.png",
+    "groupId": "维多利亚",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "rope",
+    "name": "暗索",
+    "nameEn": "Rope",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "钩索师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移"
+    ],
+    "avatar": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E6%9A%97%E7%B4%A2.png",
+    "groupId": "炎-龙门",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "rosesalt",
+    "name": "瑰盐",
+    "nameEn": "Rose Salt",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "群愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/8/8a/%E5%A4%B4%E5%83%8F_%E7%91%B0%E7%9B%90.png",
+    "groupId": "伊比利亚",
+    "painter": "二开"
+  },
+  {
+    "id": "rosmontis",
+    "name": "迷迭香",
+    "nameEn": "Rosmontis",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "投掷手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E8%BF%B7%E8%BF%AD%E9%A6%99.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "唯@W"
+  },
+  {
+    "id": "saga",
+    "name": "嵯峨",
+    "nameEn": "Saga",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/6d/%E5%A4%B4%E5%83%8F_%E5%B5%AF%E5%B3%A8.png",
+    "groupId": "东",
+    "painter": "多元菌"
+  },
+  {
+    "id": "saileach",
+    "name": "琴柳",
+    "nameEn": "Saileach",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "执旗手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/9/96/%E5%A4%B4%E5%83%8F_%E7%90%B4%E6%9F%B3.png",
+    "groupId": "维多利亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "sandreckoner",
+    "name": "衡沙",
+    "nameEn": "Sand Reckoner",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E8%A1%A1%E6%B2%99.png",
+    "groupId": "萨尔贡",
+    "painter": "一千"
+  },
+  {
+    "id": "sanktamiksaparato",
+    "name": "信仰搅拌机",
+    "nameEn": "Sankta Miksaparato",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "哨戒铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/1/13/%E5%A4%B4%E5%83%8F_%E4%BF%A1%E4%BB%B0%E6%90%85%E6%8B%8C%E6%9C%BA.png",
+    "groupId": "拉特兰",
+    "painter": "九日九号"
+  },
+  {
+    "id": "santalla",
+    "name": "寒檀",
+    "nameEn": "Santalla",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E5%AF%92%E6%AA%80.png",
+    "groupId": "萨米",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "saria",
+    "name": "塞雷娅",
+    "nameEn": "Saria",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/e/ee/%E5%A4%B4%E5%83%8F_%E5%A1%9E%E9%9B%B7%E5%A8%85.png",
+    "groupId": "莱茵生命",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "savage",
+    "name": "暴行",
+    "nameEn": "Savage",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E6%9A%B4%E8%A1%8C.png",
+    "groupId": "雷姆必拓",
+    "painter": "TOKI"
+  },
+  {
+    "id": "scavenger",
+    "name": "清道夫",
+    "nameEn": "Scavenger",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E6%B8%85%E9%81%93%E5%A4%AB.png",
+    "groupId": "S.W.E.E.P.",
+    "painter": "戏言咸咸"
+  },
+  {
+    "id": "scene",
+    "name": "稀音",
+    "nameEn": "Scene",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "召唤师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "召唤",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/c/c6/%E5%A4%B4%E5%83%8F_%E7%A8%80%E9%9F%B3.png",
+    "groupId": "萨尔贡",
+    "painter": "アシマ"
+  },
+  {
+    "id": "schwarz",
+    "name": "黑",
+    "nameEn": "Schwarz",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "重射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d4/%E5%A4%B4%E5%83%8F_%E9%BB%91.png",
+    "groupId": "汐斯塔",
+    "painter": "Liduke"
+  },
+  {
+    "id": "senshi",
+    "name": "森西",
+    "nameEn": "Senshi",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/e/e7/%E5%A4%B4%E5%83%8F_%E6%A3%AE%E8%A5%BF.png",
+    "groupId": "莱欧斯小队",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "sesa",
+    "name": "慑砂",
+    "nameEn": "Sesa",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/e/e7/%E5%A4%B4%E5%83%8F_%E6%85%91%E7%A0%82.png",
+    "groupId": "萨尔贡",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "shalem",
+    "name": "暮落",
+    "nameEn": "Shalem",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "驭法铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E6%9A%AE%E8%90%BD.png",
+    "groupId": "维多利亚",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "shalem-重装",
+    "name": "暮落",
+    "nameEn": "Shalem",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "驭法铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E6%9A%AE%E8%90%BD.png",
+    "groupId": "维多利亚",
+    "painter": "Cenm0"
+  },
+  {
+    "id": "shamare",
+    "name": "巫恋",
+    "nameEn": "Shamare",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "削弱者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E5%B7%AB%E6%81%8B.png",
+    "groupId": "叙拉古",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "sharp",
+    "name": "Sharp",
+    "nameEn": "Sharp",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/b/b4/%E5%A4%B4%E5%83%8F_Sharp.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "熊太"
+  },
+  {
+    "id": "sharp-近卫",
+    "name": "Sharp",
+    "nameEn": "Sharp",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/b/b4/%E5%A4%B4%E5%83%8F_Sharp.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "熊太"
+  },
+  {
+    "id": "shaw",
+    "name": "阿消",
+    "nameEn": "Shaw",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "推击手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移"
+    ],
+    "avatar": "https://media.prts.wiki/2/2f/%E5%A4%B4%E5%83%8F_%E9%98%BF%E6%B6%88.png",
+    "groupId": "炎-龙门",
+    "painter": "阿鬼"
+  },
+  {
+    "id": "shining",
+    "name": "闪灵",
+    "nameEn": "Shining",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/54/%E5%A4%B4%E5%83%8F_%E9%97%AA%E7%81%B5.png",
+    "groupId": "使徒",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "shirayuki",
+    "name": "白雪",
+    "nameEn": "ShiraYuki",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/b/b4/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%9B%AA.png",
+    "groupId": "东",
+    "painter": "阿鬼"
+  },
+  {
+    "id": "shu",
+    "name": "黍",
+    "nameEn": "Shu",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/f/f2/%E5%A4%B4%E5%83%8F_%E9%BB%8D.png",
+    "groupId": "炎-岁",
+    "painter": "IRIS_呓"
+  },
+  {
+    "id": "sideroca",
+    "name": "铸铁",
+    "nameEn": "Sideroca",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/84/%E5%A4%B4%E5%83%8F_%E9%93%B8%E9%93%81.png",
+    "groupId": "米诺斯",
+    "painter": "将"
+  },
+  {
+    "id": "siege",
+    "name": "推进之王",
+    "nameEn": "Siege",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/ba/%E5%A4%B4%E5%83%8F_%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B.png",
+    "groupId": "格拉斯哥帮",
+    "painter": "Infukun"
+  },
+  {
+    "id": "silence",
+    "name": "赫默",
+    "nameEn": "Silence",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/39/%E5%A4%B4%E5%83%8F_%E8%B5%AB%E9%BB%98.png",
+    "groupId": "莱茵生命",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "silencetheparadigmatic",
+    "name": "淬羽赫默",
+    "nameEn": "Silence the Paradigmatic",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E6%B7%AC%E7%BE%BD%E8%B5%AB%E9%BB%98.png",
+    "groupId": "莱茵生命",
+    "painter": "九日九号"
+  },
+  {
+    "id": "silverash",
+    "name": "银灰",
+    "nameEn": "SilverAsh",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E9%93%B6%E7%81%B0.png",
+    "groupId": "喀兰贸易",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "silverashthereignfrost",
+    "name": "凛御银灰",
+    "nameEn": "SilverAsh the Reignfrost",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "策士",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_%E5%87%9B%E5%BE%A1%E9%93%B6%E7%81%B0.png",
+    "groupId": "谢拉格",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "skadi",
+    "name": "斯卡蒂",
+    "nameEn": "Skadi",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "无畏者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%96%AF%E5%8D%A1%E8%92%82.png",
+    "groupId": "深海猎人",
+    "painter": "alchemaniac"
+  },
+  {
+    "id": "skadithecorruptingheart",
+    "name": "浊心斯卡蒂",
+    "nameEn": "Skadi the Corrupting Heart",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "吟游者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/80/%E5%A4%B4%E5%83%8F_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82.png",
+    "groupId": "阿戈尔",
+    "painter": "alchemaniac"
+  },
+  {
+    "id": "skybox",
+    "name": "天空盒",
+    "nameEn": "Skybox",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "裂空炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "群攻"
+    ],
+    "avatar": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E5%A4%A9%E7%A9%BA%E7%9B%92.png",
+    "groupId": "哥伦比亚",
+    "painter": "臼"
+  },
+  {
+    "id": "skyfire",
+    "name": "天火",
+    "nameEn": "Skyfire",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "扩散术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "群攻",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E5%A4%A9%E7%81%AB.png",
+    "groupId": "维多利亚",
+    "painter": "TOKI"
+  },
+  {
+    "id": "snowhunter",
+    "name": "雪猎",
+    "nameEn": "Snow Hunter",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "猎手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "爆发",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E9%9B%AA%E7%8C%8E.png",
+    "groupId": "谢拉格",
+    "painter": "百慕大飞鱼"
+  },
+  {
+    "id": "snowsant",
+    "name": "雪雉",
+    "nameEn": "Snowsant",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "钩索师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/2/24/%E5%A4%B4%E5%83%8F_%E9%9B%AA%E9%9B%89.png",
+    "groupId": "炎-龙门",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "sora",
+    "name": "空",
+    "nameEn": "Sora",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "吟游者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E7%A9%BA.png",
+    "groupId": "企鹅物流",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "specter",
+    "name": "幽灵鲨",
+    "nameEn": "Specter",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
+    "groupId": "深海猎人",
+    "painter": "Skade"
+  },
+  {
+    "id": "spectertheunchained",
+    "name": "归溟幽灵鲨",
+    "nameEn": "Specter the Unchained",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "傀儡师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/b/be/%E5%A4%B4%E5%83%8F_%E5%BD%92%E6%BA%9F%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
+    "groupId": "深海猎人",
+    "painter": "Skade"
+  },
+  {
+    "id": "spot",
+    "name": "斑点",
+    "nameEn": "Spot",
+    "rarity": 3,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E6%96%91%E7%82%B9.png",
+    "groupId": "行动预备组A6",
+    "painter": "阿鬼"
+  },
+  {
+    "id": "spuria",
+    "name": "空构",
+    "nameEn": "Spuria",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "怪杰",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "支援",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/d/d1/%E5%A4%B4%E5%83%8F_%E7%A9%BA%E6%9E%84.png",
+    "groupId": "拉特兰",
+    "painter": "おぐち"
+  },
+  {
+    "id": "stainless",
+    "name": "白铁",
+    "nameEn": "Stainless",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "工匠",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "辅助",
+      "支援",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/2/2e/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%93%81.png",
+    "groupId": "维多利亚",
+    "painter": "一千"
+  },
+  {
+    "id": "steward",
+    "name": "史都华德",
+    "nameEn": "Steward",
+    "rarity": 3,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b3/%E5%A4%B4%E5%83%8F_%E5%8F%B2%E9%83%BD%E5%8D%8E%E5%BE%B7.png",
+    "groupId": "行动预备组A4",
+    "painter": "一立里子"
+  },
+  {
+    "id": "stormeye",
+    "name": "Stormeye",
+    "nameEn": "Stormeye",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/8e/%E5%A4%B4%E5%83%8F_Stormeye.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "熊太"
+  },
+  {
+    "id": "stormeye-狙击",
+    "name": "Stormeye",
+    "nameEn": "Stormeye",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/8e/%E5%A4%B4%E5%83%8F_Stormeye.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "熊太"
+  },
+  {
+    "id": "surfer",
+    "name": "寻澜",
+    "nameEn": "Surfer",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "情报官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/6/65/%E5%A4%B4%E5%83%8F_%E5%AF%BB%E6%BE%9C.png",
+    "groupId": "黑钢国际",
+    "painter": "れおえん"
+  },
+  {
+    "id": "surtr",
+    "name": "史尔特尔",
+    "nameEn": "Surtr",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/e/e1/%E5%A4%B4%E5%83%8F_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94.png",
+    "groupId": "罗德岛",
+    "painter": "Ask"
+  },
+  {
+    "id": "sussurro",
+    "name": "苏苏洛",
+    "nameEn": "Sussurro",
+    "rarity": 4,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%8B%8F%E8%8B%8F%E6%B4%9B.png",
+    "groupId": "罗德岛",
+    "painter": "将"
+  },
+  {
+    "id": "suzuran",
+    "name": "铃兰",
+    "nameEn": "Suzuran",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "支援",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/5/55/%E5%A4%B4%E5%83%8F_%E9%93%83%E5%85%B0.png",
+    "groupId": "叙拉古",
+    "painter": "将"
+  },
+  {
+    "id": "swire",
+    "name": "诗怀雅",
+    "nameEn": "Swire",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "教官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/50/%E5%A4%B4%E5%83%8F_%E8%AF%97%E6%80%80%E9%9B%85.png",
+    "groupId": "龙门近卫局",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "swiretheelegantwit",
+    "name": "琳琅诗怀雅",
+    "nameEn": "Swire the Elegant Wit",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "行商",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/7/74/%E5%A4%B4%E5%83%8F_%E7%90%B3%E7%90%85%E8%AF%97%E6%80%80%E9%9B%85.png",
+    "groupId": "炎-龙门",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "tachanka",
+    "name": "战车",
+    "nameEn": "Tachanka",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "剑豪",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E6%88%98%E8%BD%A6.png",
+    "groupId": "彩虹小队",
+    "painter": "Ubisoft"
+  },
+  {
+    "id": "tecno",
+    "name": "特克诺",
+    "nameEn": "Tecno",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "塑灵术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "召唤"
+    ],
+    "avatar": "https://media.prts.wiki/2/2e/%E5%A4%B4%E5%83%8F_%E7%89%B9%E5%85%8B%E8%AF%BA.png",
+    "groupId": "玻利瓦尔",
+    "painter": "水滴鱼"
+  },
+  {
+    "id": "tequila",
+    "name": "龙舌兰",
+    "nameEn": "Tequila",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "解放者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/4/42/%E5%A4%B4%E5%83%8F_%E9%BE%99%E8%88%8C%E5%85%B0.png",
+    "groupId": "玻利瓦尔",
+    "painter": "一千"
+  },
+  {
+    "id": "terraresearchcommission",
+    "name": "泰拉大陆调查团",
+    "nameEn": "Terra Research Commission",
+    "rarity": 1,
+    "class": "狙击",
+    "branch": "投掷手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E6%B3%B0%E6%8B%89%E5%A4%A7%E9%99%86%E8%B0%83%E6%9F%A5%E5%9B%A2.png",
+    "groupId": "罗德岛",
+    "painter": "桃色Miruku"
+  },
+  {
+    "id": "texas",
+    "name": "德克萨斯",
+    "nameEn": "Texas",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
+    "groupId": "企鹅物流",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "texastheomertosa",
+    "name": "缄默德克萨斯",
+    "nameEn": "Texas the Omertosa",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E7%BC%84%E9%BB%98%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
+    "groupId": "企鹅物流",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "thermal-ex",
+    "name": "THRM-EX",
+    "nameEn": "Thermal-EX",
+    "rarity": 1,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "支援机械",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/d/d8/%E5%A4%B4%E5%83%8F_THRM-EX.png",
+    "groupId": "罗德岛",
+    "painter": "TOKI"
+  },
+  {
+    "id": "thorns",
+    "name": "棘刺",
+    "nameEn": "Thorns",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_%E6%A3%98%E5%88%BA.png",
+    "groupId": "伊比利亚",
+    "painter": "幻象黑兔"
+  },
+  {
+    "id": "thornsthelodestar",
+    "name": "引星棘刺",
+    "nameEn": "Thorns the Lodestar",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "炼金师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "输出",
+      "支援",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E5%BC%95%E6%98%9F%E6%A3%98%E5%88%BA.png",
+    "groupId": "伊比利亚",
+    "painter": "嘎嘎人"
+  },
+  {
+    "id": "tinman",
+    "name": "锡人",
+    "nameEn": "Tin Man",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "炼金师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "削弱",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E9%94%A1%E4%BA%BA.png",
+    "groupId": "哥伦比亚",
+    "painter": "树豚"
+  },
+  {
+    "id": "tippi",
+    "name": "蒂比",
+    "nameEn": "Tippi",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "巡空者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "高空",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/0/09/%E5%A4%B4%E5%83%8F_%E8%92%82%E6%AF%94.png",
+    "groupId": "哥伦比亚",
+    "painter": "二开"
+  },
+  {
+    "id": "titi",
+    "name": "缇缇",
+    "nameEn": "Titi",
+    "rarity": 6,
+    "class": "医疗",
+    "branch": "咒愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "防护",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/a/aa/%E5%A4%B4%E5%83%8F_%E7%BC%87%E7%BC%87.png",
+    "groupId": "萨尔贡",
+    "painter": "黒星紅白"
+  },
+  {
+    "id": "toddifons",
+    "name": "熔泉",
+    "nameEn": "Toddifons",
+    "rarity": 5,
+    "class": "狙击",
+    "branch": "攻城手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E7%86%94%E6%B3%89.png",
+    "groupId": "维多利亚",
+    "painter": "山×2"
+  },
+  {
+    "id": "togawasakiko",
+    "name": "丰川祥子",
+    "nameEn": "Togawa Sakiko",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E4%B8%B0%E5%B7%9D%E7%A5%A5%E5%AD%90.png",
+    "groupId": "Ave Mujica",
+    "painter": "〇亻"
+  },
+  {
+    "id": "tomimi",
+    "name": "特米米",
+    "nameEn": "Tomimi",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "中坚术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/b/b9/%E5%A4%B4%E5%83%8F_%E7%89%B9%E7%B1%B3%E7%B1%B3.png",
+    "groupId": "萨尔贡",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "totter",
+    "name": "铅踝",
+    "nameEn": "Totter",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "攻城手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/8/87/%E5%A4%B4%E5%83%8F_%E9%93%85%E8%B8%9D.png",
+    "groupId": "萨尔贡",
+    "painter": "板板"
+  },
+  {
+    "id": "touch",
+    "name": "Touch",
+    "nameEn": "Touch",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/35/%E5%A4%B4%E5%83%8F_Touch.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "熊太"
+  },
+  {
+    "id": "touch-医疗",
+    "name": "Touch",
+    "nameEn": "Touch",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/35/%E5%A4%B4%E5%83%8F_Touch.png",
+    "groupId": "罗德岛-精英干员",
+    "painter": "熊太"
+  },
+  {
+    "id": "tragodia",
+    "name": "酒神",
+    "nameEn": "Tragodia",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "巫役",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "元素",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E9%85%92%E7%A5%9E.png",
+    "groupId": "维多利亚",
+    "painter": "Skade"
+  },
+  {
+    "id": "tsukinogi",
+    "name": "月禾",
+    "nameEn": "Tsukinogi",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_%E6%9C%88%E7%A6%BE.png",
+    "groupId": "东",
+    "painter": "上埜"
+  },
+  {
+    "id": "tulip",
+    "name": "郁金香",
+    "nameEn": "Tulip",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f3/%E5%A4%B4%E5%83%8F_%E9%83%81%E9%87%91%E9%A6%99.png",
+    "groupId": "罗德岛",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "tulip-先锋",
+    "name": "郁金香",
+    "nameEn": "Tulip",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f3/%E5%A4%B4%E5%83%8F_%E9%83%81%E9%87%91%E9%A6%99.png",
+    "groupId": "罗德岛",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "tuye",
+    "name": "图耶",
+    "nameEn": "Tuye",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/9/93/%E5%A4%B4%E5%83%8F_%E5%9B%BE%E8%80%B6.png",
+    "groupId": "萨尔贡",
+    "painter": "aZLing4"
+  },
+  {
+    "id": "typhon",
+    "name": "提丰",
+    "nameEn": "Typhon",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "攻城手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E6%8F%90%E4%B8%B0.png",
+    "groupId": "萨米",
+    "painter": "LM7"
+  },
+  {
+    "id": "u-official",
+    "name": "U-Official",
+    "nameEn": "U-Official",
+    "rarity": 1,
+    "class": "辅助",
+    "branch": "吟游者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/4/45/%E5%A4%B4%E5%83%8F_U-Official.png",
+    "groupId": "罗德岛",
+    "painter": "折射镜"
+  },
+  {
+    "id": "ulpianus",
+    "name": "乌尔比安",
+    "nameEn": "Ulpianus",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "重剑手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/3/33/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89.png",
+    "groupId": "深海猎人",
+    "painter": "Skade"
+  },
+  {
+    "id": "underflow",
+    "name": "深巡",
+    "nameEn": "Underflow",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "哨戒铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "输出",
+      "减速"
+    ],
+    "avatar": "https://media.prts.wiki/b/bd/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E5%B7%A1.png",
+    "groupId": "阿戈尔",
+    "painter": "〇亻"
+  },
+  {
+    "id": "utage",
+    "name": "宴",
+    "nameEn": "Utage",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "武者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/f/f4/%E5%A4%B4%E5%83%8F_%E5%AE%B4.png",
+    "groupId": "东",
+    "painter": "釜飯轟々丸"
+  },
+  {
+    "id": "valarqvin",
+    "name": "凛视",
+    "nameEn": "Valarqvin",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "巫役",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "元素"
+    ],
+    "avatar": "https://media.prts.wiki/e/e3/%E5%A4%B4%E5%83%8F_%E5%87%9B%E8%A7%86.png",
+    "groupId": "萨米",
+    "painter": "伍秋秋秋秋"
+  },
+  {
+    "id": "vanilla",
+    "name": "香草",
+    "nameEn": "Vanilla",
+    "rarity": 3,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复"
+    ],
+    "avatar": "https://media.prts.wiki/c/c8/%E5%A4%B4%E5%83%8F_%E9%A6%99%E8%8D%89.png",
+    "groupId": "黑钢国际",
+    "painter": "m9nokuro"
+  },
+  {
+    "id": "varkáris",
+    "name": "摆渡人",
+    "nameEn": "Varkáris",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "强攻手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/e/e4/%E5%A4%B4%E5%83%8F_%E6%91%86%E6%B8%A1%E4%BA%BA.png",
+    "groupId": "米诺斯",
+    "painter": "赤岸K"
+  },
+  {
+    "id": "vendela",
+    "name": "刺玫",
+    "nameEn": "Vendela",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "咒愈师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/c/c6/%E5%A4%B4%E5%83%8F_%E5%88%BA%E7%8E%AB.png",
+    "groupId": "维多利亚",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "verdant",
+    "name": "维荻",
+    "nameEn": "Verdant",
+    "rarity": 4,
+    "class": "特种",
+    "branch": "傀儡师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "生存",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E8%8D%BB.png",
+    "groupId": "维多利亚",
+    "painter": "百慕大飞鱼"
+  },
+  {
+    "id": "vermeil",
+    "name": "红云",
+    "nameEn": "Vermeil",
+    "rarity": 4,
+    "class": "狙击",
+    "branch": "速射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/a/af/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E4%BA%91.png",
+    "groupId": "叙拉古",
+    "painter": "KENTllaall"
+  },
+  {
+    "id": "vigil",
+    "name": "伺夜",
+    "nameEn": "Vigil",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "战术家",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "先锋",
+      "费用回复",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/d/df/%E5%A4%B4%E5%83%8F_%E4%BC%BA%E5%A4%9C.png",
+    "groupId": "叙拉古",
+    "painter": "hou"
+  },
+  {
+    "id": "vigna",
+    "name": "红豆",
+    "nameEn": "Vigna",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "输出",
+      "费用回复"
+    ],
+    "avatar": "https://media.prts.wiki/b/bb/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E8%B1%86.png",
+    "groupId": "哥伦比亚",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "vinavictoria",
+    "name": "维娜·维多利亚",
+    "nameEn": "Vina Victoria",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/6/68/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E5%A8%9C%C2%B7%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A.png",
+    "groupId": "维多利亚",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "virtuosa",
+    "name": "塑心",
+    "nameEn": "Virtuosa",
+    "rarity": 6,
+    "class": "辅助",
+    "branch": "巫役",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "元素",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/0/05/%E5%A4%B4%E5%83%8F_%E5%A1%91%E5%BF%83.png",
+    "groupId": "拉特兰",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "viviana",
+    "name": "薇薇安娜",
+    "nameEn": "Viviana",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "术战者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C.png",
+    "groupId": "莱塔尼亚",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "vulcan",
+    "name": "火神",
+    "nameEn": "Vulcan",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "不屈者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "生存",
+      "防护",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/f/f1/%E5%A4%B4%E5%83%8F_%E7%81%AB%E7%A5%9E.png",
+    "groupId": "米诺斯",
+    "painter": "neco"
+  },
+  {
+    "id": "vulpisfoglia",
+    "name": "忍冬",
+    "nameEn": "Vulpisfoglia",
+    "rarity": 6,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/7/79/%E5%A4%B4%E5%83%8F_%E5%BF%8D%E5%86%AC.png",
+    "groupId": "叙拉古",
+    "painter": "轟将"
+  },
+  {
+    "id": "w",
+    "name": "W",
+    "nameEn": "W",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "炮手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_W.png",
+    "groupId": "巴别塔",
+    "painter": "Liduke"
+  },
+  {
+    "id": "waaifu",
+    "name": "槐琥",
+    "nameEn": "Waai Fu",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "处决者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "快速复活",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/e/ed/%E5%A4%B4%E5%83%8F_%E6%A7%90%E7%90%A5.png",
+    "groupId": "鲤氏侦探事务所",
+    "painter": "KuroBlood"
+  },
+  {
+    "id": "wakabamutsumi",
+    "name": "若叶睦",
+    "nameEn": "Wakaba Mutsumi",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "傀儡师",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "防护",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/a/a0/%E5%A4%B4%E5%83%8F_%E8%8B%A5%E5%8F%B6%E7%9D%A6.png",
+    "groupId": "Ave Mujica",
+    "painter": "温泉瓜"
+  },
+  {
+    "id": "wanqing",
+    "name": "万顷",
+    "nameEn": "Wanqing",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "执旗手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E4%B8%87%E9%A1%B7.png",
+    "groupId": "炎",
+    "painter": "三目YYB"
+  },
+  {
+    "id": "warfarin",
+    "name": "华法琳",
+    "nameEn": "Warfarin",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "医师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E5%8D%8E%E6%B3%95%E7%90%B3.png",
+    "groupId": "罗德岛",
+    "painter": "时辰"
+  },
+  {
+    "id": "warmy",
+    "name": "温米",
+    "nameEn": "Warmy",
+    "rarity": 5,
+    "class": "术师",
+    "branch": "本源术师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "术师",
+      "元素",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/3/3f/%E5%A4%B4%E5%83%8F_%E6%B8%A9%E7%B1%B3.png",
+    "groupId": "雷姆必拓",
+    "painter": "二色こぺ"
+  },
+  {
+    "id": "weedy",
+    "name": "温蒂",
+    "nameEn": "Weedy",
+    "rarity": 6,
+    "class": "特种",
+    "branch": "推击手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "位移",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/9/93/%E5%A4%B4%E5%83%8F_%E6%B8%A9%E8%92%82.png",
+    "groupId": "罗德岛",
+    "painter": "下野宏铭"
+  },
+  {
+    "id": "whislash",
+    "name": "鞭刃",
+    "nameEn": "Whislash",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "教官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E9%9E%AD%E5%88%83.png",
+    "groupId": "卡西米尔",
+    "painter": "竜崎いち"
+  },
+  {
+    "id": "whisperain",
+    "name": "絮雨",
+    "nameEn": "Whisperain",
+    "rarity": 5,
+    "class": "医疗",
+    "branch": "疗养师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "医疗",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E7%B5%AE%E9%9B%A8.png",
+    "groupId": "伊比利亚",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "wildmane",
+    "name": "野鬃",
+    "nameEn": "Wild Mane",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "冲锋手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/9/9f/%E5%A4%B4%E5%83%8F_%E9%87%8E%E9%AC%83.png",
+    "groupId": "红松骑士团",
+    "painter": "NoriZC"
+  },
+  {
+    "id": "windchimes",
+    "name": "铎铃",
+    "nameEn": "Wind Chimes",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "重剑手",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E9%93%8E%E9%93%83.png",
+    "groupId": "炎",
+    "painter": "〇亻"
+  },
+  {
+    "id": "windflit",
+    "name": "掠风",
+    "nameEn": "Windflit",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "工匠",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "辅助",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/5/5c/%E5%A4%B4%E5%83%8F_%E6%8E%A0%E9%A3%8E.png",
+    "groupId": "哥伦比亚",
+    "painter": "nineo"
+  },
+  {
+    "id": "windscoot",
+    "name": "骋风",
+    "nameEn": "Windscoot",
+    "rarity": 4,
+    "class": "近卫",
+    "branch": "解放者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "爆发"
+    ],
+    "avatar": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E9%AA%8B%E9%A3%8E.png",
+    "groupId": "炎",
+    "painter": "azuタロウ"
+  },
+  {
+    "id": "wišadel",
+    "name": "维什戴尔",
+    "nameEn": "Wiš'adel",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "投掷手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/6/66/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BB%80%E6%88%B4%E5%B0%94.png",
+    "groupId": "巴别塔",
+    "painter": "Liduke"
+  },
+  {
+    "id": "wulfenite",
+    "name": "钼铅",
+    "nameEn": "Wulfenite",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "陷阱师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "特种",
+      "召唤",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/2/20/%E5%A4%B4%E5%83%8F_%E9%92%BC%E9%93%85.png",
+    "groupId": "萨尔贡",
+    "painter": "臼"
+  },
+  {
+    "id": "xingzhu",
+    "name": "行箸",
+    "nameEn": "Xingzhu",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "护佑者",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "支援",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/4/42/%E5%A4%B4%E5%83%8F_%E8%A1%8C%E7%AE%B8.png",
+    "groupId": "炎",
+    "painter": "3MO"
+  },
+  {
+    "id": "yahataumiri",
+    "name": "八幡海铃",
+    "nameEn": "Yahata Umiri",
+    "rarity": 5,
+    "class": "特种",
+    "branch": "伏击客",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "特种",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/f/f2/%E5%A4%B4%E5%83%8F_%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%93%83.png",
+    "groupId": "Ave Mujica",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "yato",
+    "name": "夜刀",
+    "nameEn": "Yato",
+    "rarity": 2,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "新手"
+    ],
+    "avatar": "https://media.prts.wiki/b/b2/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E5%88%80.png",
+    "groupId": "行动组A4",
+    "painter": "Skade"
+  },
+  {
+    "id": "yu",
+    "name": "余",
+    "nameEn": "Yu",
+    "rarity": 6,
+    "class": "重装",
+    "branch": "本源铁卫",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "元素",
+      "防护"
+    ],
+    "avatar": "https://media.prts.wiki/6/66/%E5%A4%B4%E5%83%8F_%E4%BD%99.png",
+    "groupId": "炎-岁",
+    "painter": "一千"
+  },
+  {
+    "id": "yūtenjinyamu",
+    "name": "祐天寺若麦",
+    "nameEn": "Yūtenji Nyamu",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "撼地者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "群攻",
+      "输出",
+      "削弱"
+    ],
+    "avatar": "https://media.prts.wiki/d/df/%E5%A4%B4%E5%83%8F_%E7%A5%90%E5%A4%A9%E5%AF%BA%E8%8B%A5%E9%BA%A6.png",
+    "groupId": "Ave Mujica",
+    "painter": "Studio Montagne"
+  },
+  {
+    "id": "zuole",
+    "name": "左乐",
+    "nameEn": "Zuo Le",
+    "rarity": 6,
+    "class": "近卫",
+    "branch": "武者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/e/e0/%E5%A4%B4%E5%83%8F_%E5%B7%A6%E4%B9%90.png",
+    "groupId": "炎",
+    "painter": "九日九号"
+  },
+  {
+    "id": "веточки",
+    "name": "折桠",
+    "nameEn": "Веточки",
+    "rarity": 5,
+    "class": "重装",
+    "branch": "不屈者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "生存"
+    ],
+    "avatar": "https://media.prts.wiki/a/a0/%E5%A4%B4%E5%83%8F_%E6%8A%98%E6%A1%A0.png",
+    "groupId": "乌萨斯",
+    "painter": "斑雀"
+  },
+  {
+    "id": "гум",
+    "name": "古米",
+    "nameEn": "Гум",
+    "rarity": 4,
+    "class": "重装",
+    "branch": "守护者",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "重装",
+      "防护",
+      "治疗"
+    ],
+    "avatar": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E5%8F%A4%E7%B1%B3.png",
+    "groupId": "乌萨斯学生自治团",
+    "painter": "Skade"
+  },
+  {
+    "id": "зима",
+    "name": "凛冬",
+    "nameEn": "Зима",
+    "rarity": 5,
+    "class": "先锋",
+    "branch": "尖兵",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E5%87%9B%E5%86%AC.png",
+    "groupId": "乌萨斯学生自治团",
+    "painter": "Skade"
+  },
+  {
+    "id": "истина",
+    "name": "真理",
+    "nameEn": "Истина",
+    "rarity": 5,
+    "class": "辅助",
+    "branch": "凝滞师",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "辅助",
+      "减速",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/e/e6/%E5%A4%B4%E5%83%8F_%E7%9C%9F%E7%90%86.png",
+    "groupId": "乌萨斯学生自治团",
+    "painter": "Skade"
+  },
+  {
+    "id": "лето",
+    "name": "烈夏",
+    "nameEn": "Лето",
+    "rarity": 5,
+    "class": "近卫",
+    "branch": "领主",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "近卫",
+      "输出",
+      "支援"
+    ],
+    "avatar": "https://media.prts.wiki/6/65/%E5%A4%B4%E5%83%8F_%E7%83%88%E5%A4%8F.png",
+    "groupId": "乌萨斯学生自治团",
+    "painter": "Skade"
+  },
+  {
+    "id": "позёмка",
+    "name": "鸿雪",
+    "nameEn": "Позёмка",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "重射手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出"
+    ],
+    "avatar": "https://media.prts.wiki/1/1b/%E5%A4%B4%E5%83%8F_%E9%B8%BF%E9%9B%AA.png",
+    "groupId": "罗德岛",
+    "painter": "Chuzenji"
+  },
+  {
+    "id": "роса",
+    "name": "早露",
+    "nameEn": "Роса",
+    "rarity": 6,
+    "class": "狙击",
+    "branch": "攻城手",
+    "position": "远程位",
+    "tags": [
+      "远程位",
+      "狙击",
+      "输出",
+      "控场"
+    ],
+    "avatar": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E6%97%A9%E9%9C%B2.png",
+    "groupId": "乌萨斯学生自治团",
+    "painter": "Skade"
+  },
+  {
+    "id": "снегyрочка",
+    "name": "冬时",
+    "nameEn": "Снегyрочка",
+    "rarity": 4,
+    "class": "先锋",
+    "branch": "情报官",
+    "position": "近战位",
+    "tags": [
+      "近战位",
+      "先锋",
+      "费用回复",
+      "快速复活"
+    ],
+    "avatar": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E5%86%AC%E6%97%B6.png",
+    "groupId": "乌萨斯",
+    "painter": "3MO"
+  }
+]
