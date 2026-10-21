@@ -1,99 +1,99 @@
 [
   {
     "tag": "输出",
-    "count": 229
-  },
-  {
-    "tag": "近战位",
-    "count": 216
+    "count": 246
   },
   {
     "tag": "远程位",
-    "count": 215
+    "count": 234
+  },
+  {
+    "tag": "近战位",
+    "count": 228
   },
   {
     "tag": "近卫",
-    "count": 84
+    "count": 90
   },
   {
     "tag": "支援",
+    "count": 67
+  },
+  {
+    "tag": "术师",
     "count": 64
   },
   {
     "tag": "防护",
-    "count": 61
+    "count": 63
   },
   {
     "tag": "狙击",
-    "count": 60
-  },
-  {
-    "tag": "术师",
-    "count": 59
+    "count": 63
   },
   {
     "tag": "治疗",
-    "count": 58
-  },
-  {
-    "tag": "生存",
-    "count": 56
+    "count": 62
   },
   {
     "tag": "控场",
-    "count": 54
+    "count": 59
   },
   {
-    "tag": "重装",
-    "count": 49
+    "tag": "生存",
+    "count": 58
   },
   {
     "tag": "特种",
-    "count": 49
+    "count": 53
+  },
+  {
+    "tag": "重装",
+    "count": 52
   },
   {
     "tag": "辅助",
-    "count": 48
-  },
-  {
-    "tag": "先锋",
-    "count": 43
+    "count": 52
   },
   {
     "tag": "群攻",
-    "count": 42
+    "count": 46
+  },
+  {
+    "tag": "先锋",
+    "count": 46
   },
   {
     "tag": "费用回复",
-    "count": 40
+    "count": 43
   },
   {
     "tag": "医疗",
-    "count": 39
-  },
-  {
-    "tag": "快速复活",
-    "count": 27
-  },
-  {
-    "tag": "减速",
-    "count": 26
+    "count": 42
   },
   {
     "tag": "爆发",
-    "count": 25
+    "count": 29
+  },
+  {
+    "tag": "快速复活",
+    "count": 29
+  },
+  {
+    "tag": "减速",
+    "count": 27
   },
   {
     "tag": "削弱",
-    "count": 22
+    "count": 26
   },
   {
     "tag": "召唤",
-    "count": 16
+    "count": 18
   },
   {
     "tag": "元素",
-    "count": 15
+    "count": 18
   },
   {
     "tag": "位移",
@@ -101,7 +101,7 @@
   },
   {
     "tag": "支援机械",
-    "count": 7
+    "count": 8
   },
   {
     "tag": "新手",
