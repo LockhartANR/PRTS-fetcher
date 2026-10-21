@@ -3,8 +3,13 @@
 // The charId JS file URL — the filename includes a date stamp that changes
 // when the wiki publishes updated character metadata.
 // Override with the CHAR_ID_URL environment variable if needed.
+//
+// 快照会随 wiki 更新而换日期，旧文件**仍可访问**但内容停在那个时点。
+// 因此这个默认值需要定期更新；发现「干员数量没变化」时先来查这里。
+// 20260110 → 20261013：干员数 431 → 463。
+// 注意没有不带日期的稳定别名（charId.js 返回 404），只能按日期取。
 export const PRTS = {
-  CHAR_ID_URL: process.env.CHAR_ID_URL || 'https://static.prts.wiki/charinfo/charId20260110.js',
+  CHAR_ID_URL: process.env.CHAR_ID_URL || 'https://static.prts.wiki/charinfo/charId20261013.js',
   WIKI_BASE: 'https://prts.wiki',
   MEDIA_BASE: 'https://media.prts.wiki',
 };
